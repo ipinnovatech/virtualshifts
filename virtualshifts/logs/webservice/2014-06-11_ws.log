@@ -1,0 +1,1512 @@
+
+2014-06-11 08:56:23 --> get_areas 1 
+2014-06-11 08:56:23 --> buscando areas del cliente 
+2014-06-11 08:56:23 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '1',
+    'nombre_area' => 'Cartas de ingreso al punto de venta Fondex',
+  ),
+  1 => 
+  array (
+    'id_area' => '2',
+    'nombre_area' => 'Seguridad social Pensiones Incapacidades',
+  ),
+  2 => 
+  array (
+    'id_area' => '3',
+    'nombre_area' => 'Cesantias Cert laborales Constancias FNA',
+  ),
+  3 => 
+  array (
+    'id_area' => '5',
+    'nombre_area' => 'Otros',
+  ),
+  4 => 
+  array (
+    'id_area' => '7',
+    'nombre_area' => 'Solicitudes varias',
+  ),
+  5 => 
+  array (
+    'id_area' => '8',
+    'nombre_area' => 'Pago nomina y liquidaciones',
+  ),
+) 
+2014-06-11 08:56:23 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '1',
+      'nombre_area' => 'Cartas de ingreso al punto de venta Fondex',
+    ),
+    1 => 
+    array (
+      'id_area' => '2',
+      'nombre_area' => 'Seguridad social Pensiones Incapacidades',
+    ),
+    2 => 
+    array (
+      'id_area' => '3',
+      'nombre_area' => 'Cesantias Cert laborales Constancias FNA',
+    ),
+    3 => 
+    array (
+      'id_area' => '5',
+      'nombre_area' => 'Otros',
+    ),
+    4 => 
+    array (
+      'id_area' => '7',
+      'nombre_area' => 'Solicitudes varias',
+    ),
+    5 => 
+    array (
+      'id_area' => '8',
+      'nombre_area' => 'Pago nomina y liquidaciones',
+    ),
+  ),
+) 
+
+2014-06-11 08:56:39 --> get_areas 1 
+2014-06-11 08:56:39 --> buscando areas del cliente 
+2014-06-11 08:56:39 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '1',
+    'nombre_area' => 'Cartas de ingreso al punto de venta Fondex',
+  ),
+  1 => 
+  array (
+    'id_area' => '2',
+    'nombre_area' => 'Seguridad social Pensiones Incapacidades',
+  ),
+  2 => 
+  array (
+    'id_area' => '3',
+    'nombre_area' => 'Cesantias Cert laborales Constancias FNA',
+  ),
+  3 => 
+  array (
+    'id_area' => '5',
+    'nombre_area' => 'Otros',
+  ),
+  4 => 
+  array (
+    'id_area' => '7',
+    'nombre_area' => 'Solicitudes varias',
+  ),
+  5 => 
+  array (
+    'id_area' => '8',
+    'nombre_area' => 'Pago nomina y liquidaciones',
+  ),
+) 
+2014-06-11 08:56:39 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '1',
+      'nombre_area' => 'Cartas de ingreso al punto de venta Fondex',
+    ),
+    1 => 
+    array (
+      'id_area' => '2',
+      'nombre_area' => 'Seguridad social Pensiones Incapacidades',
+    ),
+    2 => 
+    array (
+      'id_area' => '3',
+      'nombre_area' => 'Cesantias Cert laborales Constancias FNA',
+    ),
+    3 => 
+    array (
+      'id_area' => '5',
+      'nombre_area' => 'Otros',
+    ),
+    4 => 
+    array (
+      'id_area' => '7',
+      'nombre_area' => 'Solicitudes varias',
+    ),
+    5 => 
+    array (
+      'id_area' => '8',
+      'nombre_area' => 'Pago nomina y liquidaciones',
+    ),
+  ),
+) 
+2014-06-11 08:58:00 --> crear el consumidor 
+2014-06-11 08:58:00 --> crear el consumidor 
+2014-06-11 08:58:00 --> se creo el consumidor 2824 
+2014-06-11 08:58:00 --> se creo el consumidor 2825 
+2014-06-11 08:58:00 --> la informacion de la sede es array (
+  'S_ID' => '3',
+  'S_NOMBRE' => 'NORTE',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional norte',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '0',
+) 
+2014-06-11 08:58:00 --> se va a extraer informacion del area  
+2014-06-11 08:58:00 --> la informacion de la sede es array (
+  'S_ID' => '3',
+  'S_NOMBRE' => 'NORTE',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional norte',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '0',
+) 
+2014-06-11 08:58:00 --> se va a extraer informacion del area  
+2014-06-11 08:58:00 --> la informacion del area es array (
+  'AR_ID' => '3',
+  'AR_NOMBRE' => 'SEGUIMIENTO_AL_SERVICIO',
+  'AR_DESCRIPCION' => 'Cesantias Cert laborales Constancias FNA',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'SAS',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-06-11 08:58:00 --> se va a crear el turno 
+2014-06-11 08:58:00 --> se creo el turno 2 del area SAS 
+2014-06-11 08:58:00 --> la informacion del area es array (
+  'AR_ID' => '3',
+  'AR_NOMBRE' => 'SEGUIMIENTO_AL_SERVICIO',
+  'AR_DESCRIPCION' => 'Cesantias Cert laborales Constancias FNA',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'SAS',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-06-11 08:58:00 --> se va a crear el turno 
+2014-06-11 08:58:00 --> se creo el turno 3 del area SAS 
+
+2014-06-11 09:27:26 --> get_areas 1 
+2014-06-11 09:27:26 --> buscando areas del cliente 
+2014-06-11 09:27:26 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '1',
+    'nombre_area' => 'Cartas de ingreso al punto de venta Fondex',
+  ),
+  1 => 
+  array (
+    'id_area' => '2',
+    'nombre_area' => 'Seguridad social Pensiones Incapacidades',
+  ),
+  2 => 
+  array (
+    'id_area' => '3',
+    'nombre_area' => 'Cesantias Cert laborales Constancias FNA',
+  ),
+  3 => 
+  array (
+    'id_area' => '5',
+    'nombre_area' => 'Otros',
+  ),
+  4 => 
+  array (
+    'id_area' => '7',
+    'nombre_area' => 'Solicitudes varias',
+  ),
+  5 => 
+  array (
+    'id_area' => '8',
+    'nombre_area' => 'Pago nomina y liquidaciones',
+  ),
+) 
+2014-06-11 09:27:26 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '1',
+      'nombre_area' => 'Cartas de ingreso al punto de venta Fondex',
+    ),
+    1 => 
+    array (
+      'id_area' => '2',
+      'nombre_area' => 'Seguridad social Pensiones Incapacidades',
+    ),
+    2 => 
+    array (
+      'id_area' => '3',
+      'nombre_area' => 'Cesantias Cert laborales Constancias FNA',
+    ),
+    3 => 
+    array (
+      'id_area' => '5',
+      'nombre_area' => 'Otros',
+    ),
+    4 => 
+    array (
+      'id_area' => '7',
+      'nombre_area' => 'Solicitudes varias',
+    ),
+    5 => 
+    array (
+      'id_area' => '8',
+      'nombre_area' => 'Pago nomina y liquidaciones',
+    ),
+  ),
+) 
+2014-06-11 09:27:31 --> crear el consumidor 
+2014-06-11 09:27:31 --> se creo el consumidor 2828 
+2014-06-11 09:27:31 --> la informacion de la sede es array (
+  'S_ID' => '3',
+  'S_NOMBRE' => 'NORTE',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional norte',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '0',
+) 
+2014-06-11 09:27:31 --> se va a extraer informacion del area  
+2014-06-11 09:27:31 --> la informacion del area es array (
+  'AR_ID' => '3',
+  'AR_NOMBRE' => 'SEGUIMIENTO_AL_SERVICIO',
+  'AR_DESCRIPCION' => 'Cesantias Cert laborales Constancias FNA',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'SAS',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-06-11 09:27:31 --> se va a crear el turno 
+2014-06-11 09:27:31 --> se creo el turno 4 del area SAS 
+
+2014-06-11 09:48:32 --> get_areas 1 
+2014-06-11 09:48:32 --> buscando areas del cliente 
+2014-06-11 09:48:32 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '1',
+    'nombre_area' => 'Cartas de ingreso al punto de venta Fondex',
+  ),
+  1 => 
+  array (
+    'id_area' => '2',
+    'nombre_area' => 'Seguridad social Pensiones Incapacidades',
+  ),
+  2 => 
+  array (
+    'id_area' => '3',
+    'nombre_area' => 'Cesantias Cert laborales Constancias FNA',
+  ),
+  3 => 
+  array (
+    'id_area' => '5',
+    'nombre_area' => 'Otros',
+  ),
+  4 => 
+  array (
+    'id_area' => '7',
+    'nombre_area' => 'Solicitudes varias',
+  ),
+  5 => 
+  array (
+    'id_area' => '8',
+    'nombre_area' => 'Pago nomina y liquidaciones',
+  ),
+) 
+2014-06-11 09:48:32 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '1',
+      'nombre_area' => 'Cartas de ingreso al punto de venta Fondex',
+    ),
+    1 => 
+    array (
+      'id_area' => '2',
+      'nombre_area' => 'Seguridad social Pensiones Incapacidades',
+    ),
+    2 => 
+    array (
+      'id_area' => '3',
+      'nombre_area' => 'Cesantias Cert laborales Constancias FNA',
+    ),
+    3 => 
+    array (
+      'id_area' => '5',
+      'nombre_area' => 'Otros',
+    ),
+    4 => 
+    array (
+      'id_area' => '7',
+      'nombre_area' => 'Solicitudes varias',
+    ),
+    5 => 
+    array (
+      'id_area' => '8',
+      'nombre_area' => 'Pago nomina y liquidaciones',
+    ),
+  ),
+) 
+2014-06-11 09:48:45 --> crear el consumidor 
+2014-06-11 09:48:45 --> se creo el consumidor 2832 
+2014-06-11 09:48:45 --> la informacion de la sede es array (
+  'S_ID' => '3',
+  'S_NOMBRE' => 'NORTE',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional norte',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '0',
+) 
+2014-06-11 09:48:45 --> se va a extraer informacion del area  
+2014-06-11 09:48:45 --> la informacion del area es array (
+  'AR_ID' => '3',
+  'AR_NOMBRE' => 'SEGUIMIENTO_AL_SERVICIO',
+  'AR_DESCRIPCION' => 'Cesantias Cert laborales Constancias FNA',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'SAS',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-06-11 09:48:45 --> se va a crear el turno 
+2014-06-11 09:48:45 --> se creo el turno 5 del area SAS 
+
+2014-06-11 09:49:06 --> get_areas 1 
+2014-06-11 09:49:06 --> buscando areas del cliente 
+2014-06-11 09:49:06 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '1',
+    'nombre_area' => 'Cartas de ingreso al punto de venta Fondex',
+  ),
+  1 => 
+  array (
+    'id_area' => '2',
+    'nombre_area' => 'Seguridad social Pensiones Incapacidades',
+  ),
+  2 => 
+  array (
+    'id_area' => '3',
+    'nombre_area' => 'Cesantias Cert laborales Constancias FNA',
+  ),
+  3 => 
+  array (
+    'id_area' => '5',
+    'nombre_area' => 'Otros',
+  ),
+  4 => 
+  array (
+    'id_area' => '7',
+    'nombre_area' => 'Solicitudes varias',
+  ),
+  5 => 
+  array (
+    'id_area' => '8',
+    'nombre_area' => 'Pago nomina y liquidaciones',
+  ),
+) 
+2014-06-11 09:49:06 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '1',
+      'nombre_area' => 'Cartas de ingreso al punto de venta Fondex',
+    ),
+    1 => 
+    array (
+      'id_area' => '2',
+      'nombre_area' => 'Seguridad social Pensiones Incapacidades',
+    ),
+    2 => 
+    array (
+      'id_area' => '3',
+      'nombre_area' => 'Cesantias Cert laborales Constancias FNA',
+    ),
+    3 => 
+    array (
+      'id_area' => '5',
+      'nombre_area' => 'Otros',
+    ),
+    4 => 
+    array (
+      'id_area' => '7',
+      'nombre_area' => 'Solicitudes varias',
+    ),
+    5 => 
+    array (
+      'id_area' => '8',
+      'nombre_area' => 'Pago nomina y liquidaciones',
+    ),
+  ),
+) 
+2014-06-11 09:49:21 --> crear el consumidor 
+2014-06-11 09:49:21 --> se creo el consumidor 2833 
+2014-06-11 09:49:21 --> la informacion de la sede es array (
+  'S_ID' => '3',
+  'S_NOMBRE' => 'NORTE',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional norte',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '0',
+) 
+2014-06-11 09:49:21 --> se va a extraer informacion del area  
+2014-06-11 09:49:21 --> la informacion del area es array (
+  'AR_ID' => '3',
+  'AR_NOMBRE' => 'SEGUIMIENTO_AL_SERVICIO',
+  'AR_DESCRIPCION' => 'Cesantias Cert laborales Constancias FNA',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'SAS',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-06-11 09:49:21 --> se va a crear el turno 
+2014-06-11 09:49:21 --> se creo el turno 6 del area SAS 
+
+2014-06-11 10:18:39 --> get_areas 1 
+2014-06-11 10:18:39 --> buscando areas del cliente 
+2014-06-11 10:18:39 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '1',
+    'nombre_area' => 'Cartas de ingreso al punto de venta Fondex',
+  ),
+  1 => 
+  array (
+    'id_area' => '2',
+    'nombre_area' => 'Seguridad social Pensiones Incapacidades',
+  ),
+  2 => 
+  array (
+    'id_area' => '3',
+    'nombre_area' => 'Cesantias Cert laborales Constancias FNA',
+  ),
+  3 => 
+  array (
+    'id_area' => '5',
+    'nombre_area' => 'Otros',
+  ),
+  4 => 
+  array (
+    'id_area' => '7',
+    'nombre_area' => 'Solicitudes varias',
+  ),
+  5 => 
+  array (
+    'id_area' => '8',
+    'nombre_area' => 'Pago nomina y liquidaciones',
+  ),
+) 
+2014-06-11 10:18:39 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '1',
+      'nombre_area' => 'Cartas de ingreso al punto de venta Fondex',
+    ),
+    1 => 
+    array (
+      'id_area' => '2',
+      'nombre_area' => 'Seguridad social Pensiones Incapacidades',
+    ),
+    2 => 
+    array (
+      'id_area' => '3',
+      'nombre_area' => 'Cesantias Cert laborales Constancias FNA',
+    ),
+    3 => 
+    array (
+      'id_area' => '5',
+      'nombre_area' => 'Otros',
+    ),
+    4 => 
+    array (
+      'id_area' => '7',
+      'nombre_area' => 'Solicitudes varias',
+    ),
+    5 => 
+    array (
+      'id_area' => '8',
+      'nombre_area' => 'Pago nomina y liquidaciones',
+    ),
+  ),
+) 
+2014-06-11 10:19:21 --> crear el consumidor 
+2014-06-11 10:19:24 --> se creo el consumidor 2849 
+2014-06-11 10:19:24 --> la informacion de la sede es array (
+  'S_ID' => '3',
+  'S_NOMBRE' => 'NORTE',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional norte',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '0',
+) 
+2014-06-11 10:19:24 --> se va a extraer informacion del area  
+2014-06-11 10:19:24 --> la informacion del area es array (
+  'AR_ID' => '3',
+  'AR_NOMBRE' => 'SEGUIMIENTO_AL_SERVICIO',
+  'AR_DESCRIPCION' => 'Cesantias Cert laborales Constancias FNA',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'SAS',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-06-11 10:19:24 --> se va a crear el turno 
+2014-06-11 10:19:24 --> se creo el turno 7 del area SAS 
+
+2014-06-11 15:54:57 --> get_areas 1 
+2014-06-11 15:54:57 --> buscando areas del cliente 
+2014-06-11 15:54:57 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '1',
+    'nombre_area' => 'Cartas de ingreso al punto de venta Fondex',
+  ),
+  1 => 
+  array (
+    'id_area' => '2',
+    'nombre_area' => 'Seguridad social Pensiones Incapacidades',
+  ),
+  2 => 
+  array (
+    'id_area' => '3',
+    'nombre_area' => 'Cesantias Cert laborales Constancias FNA',
+  ),
+  3 => 
+  array (
+    'id_area' => '5',
+    'nombre_area' => 'Otros',
+  ),
+  4 => 
+  array (
+    'id_area' => '7',
+    'nombre_area' => 'Solicitudes varias',
+  ),
+  5 => 
+  array (
+    'id_area' => '8',
+    'nombre_area' => 'Pago nomina y liquidaciones',
+  ),
+) 
+2014-06-11 15:54:57 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '1',
+      'nombre_area' => 'Cartas de ingreso al punto de venta Fondex',
+    ),
+    1 => 
+    array (
+      'id_area' => '2',
+      'nombre_area' => 'Seguridad social Pensiones Incapacidades',
+    ),
+    2 => 
+    array (
+      'id_area' => '3',
+      'nombre_area' => 'Cesantias Cert laborales Constancias FNA',
+    ),
+    3 => 
+    array (
+      'id_area' => '5',
+      'nombre_area' => 'Otros',
+    ),
+    4 => 
+    array (
+      'id_area' => '7',
+      'nombre_area' => 'Solicitudes varias',
+    ),
+    5 => 
+    array (
+      'id_area' => '8',
+      'nombre_area' => 'Pago nomina y liquidaciones',
+    ),
+  ),
+) 
+2014-06-11 15:55:16 --> crear el consumidor 
+2014-06-11 15:55:16 --> se creo el consumidor 2922 
+2014-06-11 15:55:16 --> la informacion de la sede es array (
+  'S_ID' => '5',
+  'S_NOMBRE' => 'ORIENTE',
+  'S_DESCRIPCION' => 'Sede para gestionar los casos de la regional Oriente',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '1',
+  'S_MUESTRA_VIDEO' => '0',
+) 
+2014-06-11 15:55:16 --> se va a extraer informacion del area  
+2014-06-11 15:55:16 --> la informacion del area es array (
+  'AR_ID' => '1',
+  'AR_NOMBRE' => 'GERENCIAMIENTO_DEL_SERVICIO',
+  'AR_DESCRIPCION' => 'Cartas de ingreso al punto de venta Fondex',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'GS',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-06-11 15:55:16 --> se va a crear el turno 
+2014-06-11 15:55:16 --> se creo el turno 14 del area GS 
+
+2014-06-11 15:55:29 --> get_areas 1 
+2014-06-11 15:55:29 --> buscando areas del cliente 
+2014-06-11 15:55:29 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '1',
+    'nombre_area' => 'Cartas de ingreso al punto de venta Fondex',
+  ),
+  1 => 
+  array (
+    'id_area' => '2',
+    'nombre_area' => 'Seguridad social Pensiones Incapacidades',
+  ),
+  2 => 
+  array (
+    'id_area' => '3',
+    'nombre_area' => 'Cesantias Cert laborales Constancias FNA',
+  ),
+  3 => 
+  array (
+    'id_area' => '5',
+    'nombre_area' => 'Otros',
+  ),
+  4 => 
+  array (
+    'id_area' => '7',
+    'nombre_area' => 'Solicitudes varias',
+  ),
+  5 => 
+  array (
+    'id_area' => '8',
+    'nombre_area' => 'Pago nomina y liquidaciones',
+  ),
+) 
+2014-06-11 15:55:29 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '1',
+      'nombre_area' => 'Cartas de ingreso al punto de venta Fondex',
+    ),
+    1 => 
+    array (
+      'id_area' => '2',
+      'nombre_area' => 'Seguridad social Pensiones Incapacidades',
+    ),
+    2 => 
+    array (
+      'id_area' => '3',
+      'nombre_area' => 'Cesantias Cert laborales Constancias FNA',
+    ),
+    3 => 
+    array (
+      'id_area' => '5',
+      'nombre_area' => 'Otros',
+    ),
+    4 => 
+    array (
+      'id_area' => '7',
+      'nombre_area' => 'Solicitudes varias',
+    ),
+    5 => 
+    array (
+      'id_area' => '8',
+      'nombre_area' => 'Pago nomina y liquidaciones',
+    ),
+  ),
+) 
+2014-06-11 15:55:45 --> crear el consumidor 
+2014-06-11 15:55:45 --> se creo el consumidor 2923 
+2014-06-11 15:55:45 --> la informacion de la sede es array (
+  'S_ID' => '5',
+  'S_NOMBRE' => 'ORIENTE',
+  'S_DESCRIPCION' => 'Sede para gestionar los casos de la regional Oriente',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '1',
+  'S_MUESTRA_VIDEO' => '0',
+) 
+2014-06-11 15:55:45 --> se va a extraer informacion del area  
+2014-06-11 15:55:45 --> la informacion del area es array (
+  'AR_ID' => '5',
+  'AR_NOMBRE' => 'OTROS',
+  'AR_DESCRIPCION' => 'Otros',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'Otro',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-06-11 15:55:45 --> se va a crear el turno 
+2014-06-11 15:55:45 --> se creo el turno 1 del area Otro 
+
+2014-06-11 15:55:57 --> get_areas 1 
+2014-06-11 15:55:57 --> buscando areas del cliente 
+2014-06-11 15:55:57 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '1',
+    'nombre_area' => 'Cartas de ingreso al punto de venta Fondex',
+  ),
+  1 => 
+  array (
+    'id_area' => '2',
+    'nombre_area' => 'Seguridad social Pensiones Incapacidades',
+  ),
+  2 => 
+  array (
+    'id_area' => '3',
+    'nombre_area' => 'Cesantias Cert laborales Constancias FNA',
+  ),
+  3 => 
+  array (
+    'id_area' => '5',
+    'nombre_area' => 'Otros',
+  ),
+  4 => 
+  array (
+    'id_area' => '7',
+    'nombre_area' => 'Solicitudes varias',
+  ),
+  5 => 
+  array (
+    'id_area' => '8',
+    'nombre_area' => 'Pago nomina y liquidaciones',
+  ),
+) 
+2014-06-11 15:55:57 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '1',
+      'nombre_area' => 'Cartas de ingreso al punto de venta Fondex',
+    ),
+    1 => 
+    array (
+      'id_area' => '2',
+      'nombre_area' => 'Seguridad social Pensiones Incapacidades',
+    ),
+    2 => 
+    array (
+      'id_area' => '3',
+      'nombre_area' => 'Cesantias Cert laborales Constancias FNA',
+    ),
+    3 => 
+    array (
+      'id_area' => '5',
+      'nombre_area' => 'Otros',
+    ),
+    4 => 
+    array (
+      'id_area' => '7',
+      'nombre_area' => 'Solicitudes varias',
+    ),
+    5 => 
+    array (
+      'id_area' => '8',
+      'nombre_area' => 'Pago nomina y liquidaciones',
+    ),
+  ),
+) 
+
+2014-06-11 15:58:53 --> get_areas 1 
+2014-06-11 15:58:53 --> buscando areas del cliente 
+2014-06-11 15:58:53 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '1',
+    'nombre_area' => 'Cartas de ingreso al punto de venta Fondex',
+  ),
+  1 => 
+  array (
+    'id_area' => '2',
+    'nombre_area' => 'Seguridad social Pensiones Incapacidades',
+  ),
+  2 => 
+  array (
+    'id_area' => '3',
+    'nombre_area' => 'Cesantias Cert laborales Constancias FNA',
+  ),
+  3 => 
+  array (
+    'id_area' => '5',
+    'nombre_area' => 'Otros',
+  ),
+  4 => 
+  array (
+    'id_area' => '7',
+    'nombre_area' => 'Solicitudes varias',
+  ),
+  5 => 
+  array (
+    'id_area' => '8',
+    'nombre_area' => 'Pago nomina y liquidaciones',
+  ),
+) 
+2014-06-11 15:58:53 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '1',
+      'nombre_area' => 'Cartas de ingreso al punto de venta Fondex',
+    ),
+    1 => 
+    array (
+      'id_area' => '2',
+      'nombre_area' => 'Seguridad social Pensiones Incapacidades',
+    ),
+    2 => 
+    array (
+      'id_area' => '3',
+      'nombre_area' => 'Cesantias Cert laborales Constancias FNA',
+    ),
+    3 => 
+    array (
+      'id_area' => '5',
+      'nombre_area' => 'Otros',
+    ),
+    4 => 
+    array (
+      'id_area' => '7',
+      'nombre_area' => 'Solicitudes varias',
+    ),
+    5 => 
+    array (
+      'id_area' => '8',
+      'nombre_area' => 'Pago nomina y liquidaciones',
+    ),
+  ),
+) 
+2014-06-11 15:59:00 --> crear el consumidor 
+2014-06-11 15:59:02 --> se creo el consumidor 2927 
+2014-06-11 15:59:02 --> la informacion de la sede es array (
+  'S_ID' => '5',
+  'S_NOMBRE' => 'ORIENTE',
+  'S_DESCRIPCION' => 'Sede para gestionar los casos de la regional Oriente',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '1',
+  'S_MUESTRA_VIDEO' => '0',
+) 
+2014-06-11 15:59:02 --> se va a extraer informacion del area  
+2014-06-11 15:59:02 --> la informacion del area es array (
+  'AR_ID' => '1',
+  'AR_NOMBRE' => 'GERENCIAMIENTO_DEL_SERVICIO',
+  'AR_DESCRIPCION' => 'Cartas de ingreso al punto de venta Fondex',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'GS',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-06-11 15:59:02 --> se va a crear el turno 
+2014-06-11 15:59:02 --> se creo el turno 15 del area GS 
+
+2014-06-11 16:00:14 --> get_areas 1 
+2014-06-11 16:00:14 --> buscando areas del cliente 
+2014-06-11 16:00:14 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '1',
+    'nombre_area' => 'Cartas de ingreso al punto de venta Fondex',
+  ),
+  1 => 
+  array (
+    'id_area' => '2',
+    'nombre_area' => 'Seguridad social Pensiones Incapacidades',
+  ),
+  2 => 
+  array (
+    'id_area' => '3',
+    'nombre_area' => 'Cesantias Cert laborales Constancias FNA',
+  ),
+  3 => 
+  array (
+    'id_area' => '5',
+    'nombre_area' => 'Otros',
+  ),
+  4 => 
+  array (
+    'id_area' => '7',
+    'nombre_area' => 'Solicitudes varias',
+  ),
+  5 => 
+  array (
+    'id_area' => '8',
+    'nombre_area' => 'Pago nomina y liquidaciones',
+  ),
+) 
+2014-06-11 16:00:14 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '1',
+      'nombre_area' => 'Cartas de ingreso al punto de venta Fondex',
+    ),
+    1 => 
+    array (
+      'id_area' => '2',
+      'nombre_area' => 'Seguridad social Pensiones Incapacidades',
+    ),
+    2 => 
+    array (
+      'id_area' => '3',
+      'nombre_area' => 'Cesantias Cert laborales Constancias FNA',
+    ),
+    3 => 
+    array (
+      'id_area' => '5',
+      'nombre_area' => 'Otros',
+    ),
+    4 => 
+    array (
+      'id_area' => '7',
+      'nombre_area' => 'Solicitudes varias',
+    ),
+    5 => 
+    array (
+      'id_area' => '8',
+      'nombre_area' => 'Pago nomina y liquidaciones',
+    ),
+  ),
+) 
+2014-06-11 16:00:16 --> crear el consumidor 
+2014-06-11 16:00:16 --> se creo el consumidor 2928 
+2014-06-11 16:00:16 --> la informacion de la sede es array (
+  'S_ID' => '5',
+  'S_NOMBRE' => 'ORIENTE',
+  'S_DESCRIPCION' => 'Sede para gestionar los casos de la regional Oriente',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '1',
+  'S_MUESTRA_VIDEO' => '0',
+) 
+2014-06-11 16:00:16 --> se va a extraer informacion del area  
+2014-06-11 16:00:16 --> la informacion del area es array (
+  'AR_ID' => '1',
+  'AR_NOMBRE' => 'GERENCIAMIENTO_DEL_SERVICIO',
+  'AR_DESCRIPCION' => 'Cartas de ingreso al punto de venta Fondex',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'GS',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-06-11 16:00:16 --> se va a crear el turno 
+2014-06-11 16:00:16 --> se creo el turno 16 del area GS 
+
+2014-06-11 16:06:14 --> get_areas 1 
+2014-06-11 16:06:14 --> buscando areas del cliente 
+2014-06-11 16:06:14 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '1',
+    'nombre_area' => 'Cartas de ingreso al punto de venta Fondex',
+  ),
+  1 => 
+  array (
+    'id_area' => '2',
+    'nombre_area' => 'Seguridad social Pensiones Incapacidades',
+  ),
+  2 => 
+  array (
+    'id_area' => '3',
+    'nombre_area' => 'Cesantias Cert laborales Constancias FNA',
+  ),
+  3 => 
+  array (
+    'id_area' => '5',
+    'nombre_area' => 'Otros',
+  ),
+  4 => 
+  array (
+    'id_area' => '7',
+    'nombre_area' => 'Solicitudes varias',
+  ),
+  5 => 
+  array (
+    'id_area' => '8',
+    'nombre_area' => 'Pago nomina y liquidaciones',
+  ),
+) 
+2014-06-11 16:06:14 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '1',
+      'nombre_area' => 'Cartas de ingreso al punto de venta Fondex',
+    ),
+    1 => 
+    array (
+      'id_area' => '2',
+      'nombre_area' => 'Seguridad social Pensiones Incapacidades',
+    ),
+    2 => 
+    array (
+      'id_area' => '3',
+      'nombre_area' => 'Cesantias Cert laborales Constancias FNA',
+    ),
+    3 => 
+    array (
+      'id_area' => '5',
+      'nombre_area' => 'Otros',
+    ),
+    4 => 
+    array (
+      'id_area' => '7',
+      'nombre_area' => 'Solicitudes varias',
+    ),
+    5 => 
+    array (
+      'id_area' => '8',
+      'nombre_area' => 'Pago nomina y liquidaciones',
+    ),
+  ),
+) 
+2014-06-11 16:06:19 --> crear el consumidor 
+2014-06-11 16:06:19 --> se creo el consumidor 2933 
+2014-06-11 16:06:19 --> la informacion de la sede es array (
+  'S_ID' => '5',
+  'S_NOMBRE' => 'ORIENTE',
+  'S_DESCRIPCION' => 'Sede para gestionar los casos de la regional Oriente',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '1',
+  'S_MUESTRA_VIDEO' => '0',
+) 
+2014-06-11 16:06:19 --> se va a extraer informacion del area  
+2014-06-11 16:06:19 --> la informacion del area es array (
+  'AR_ID' => '1',
+  'AR_NOMBRE' => 'GERENCIAMIENTO_DEL_SERVICIO',
+  'AR_DESCRIPCION' => 'Cartas de ingreso al punto de venta Fondex',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'GS',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-06-11 16:06:19 --> se va a crear el turno 
+2014-06-11 16:06:19 --> se creo el turno 17 del area GS 
+
+2014-06-11 16:07:31 --> get_areas 1 
+2014-06-11 16:07:31 --> buscando areas del cliente 
+2014-06-11 16:07:31 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '1',
+    'nombre_area' => 'Cartas de ingreso al punto de venta Fondex',
+  ),
+  1 => 
+  array (
+    'id_area' => '2',
+    'nombre_area' => 'Seguridad social Pensiones Incapacidades',
+  ),
+  2 => 
+  array (
+    'id_area' => '3',
+    'nombre_area' => 'Cesantias Cert laborales Constancias FNA',
+  ),
+  3 => 
+  array (
+    'id_area' => '5',
+    'nombre_area' => 'Otros',
+  ),
+  4 => 
+  array (
+    'id_area' => '7',
+    'nombre_area' => 'Solicitudes varias',
+  ),
+  5 => 
+  array (
+    'id_area' => '8',
+    'nombre_area' => 'Pago nomina y liquidaciones',
+  ),
+) 
+2014-06-11 16:07:31 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '1',
+      'nombre_area' => 'Cartas de ingreso al punto de venta Fondex',
+    ),
+    1 => 
+    array (
+      'id_area' => '2',
+      'nombre_area' => 'Seguridad social Pensiones Incapacidades',
+    ),
+    2 => 
+    array (
+      'id_area' => '3',
+      'nombre_area' => 'Cesantias Cert laborales Constancias FNA',
+    ),
+    3 => 
+    array (
+      'id_area' => '5',
+      'nombre_area' => 'Otros',
+    ),
+    4 => 
+    array (
+      'id_area' => '7',
+      'nombre_area' => 'Solicitudes varias',
+    ),
+    5 => 
+    array (
+      'id_area' => '8',
+      'nombre_area' => 'Pago nomina y liquidaciones',
+    ),
+  ),
+) 
+2014-06-11 16:07:34 --> crear el consumidor 
+2014-06-11 16:07:38 --> se creo el consumidor 2934 
+2014-06-11 16:07:38 --> la informacion de la sede es array (
+  'S_ID' => '5',
+  'S_NOMBRE' => 'ORIENTE',
+  'S_DESCRIPCION' => 'Sede para gestionar los casos de la regional Oriente',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '1',
+  'S_MUESTRA_VIDEO' => '0',
+) 
+2014-06-11 16:07:38 --> se va a extraer informacion del area  
+2014-06-11 16:07:38 --> la informacion del area es array (
+  'AR_ID' => '1',
+  'AR_NOMBRE' => 'GERENCIAMIENTO_DEL_SERVICIO',
+  'AR_DESCRIPCION' => 'Cartas de ingreso al punto de venta Fondex',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'GS',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-06-11 16:07:38 --> se va a crear el turno 
+2014-06-11 16:07:38 --> se creo el turno 18 del area GS 
+
+2014-06-11 16:15:32 --> get_areas 1 
+2014-06-11 16:15:32 --> buscando areas del cliente 
+2014-06-11 16:15:32 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '1',
+    'nombre_area' => 'Cartas de ingreso al punto de venta Fondex',
+  ),
+  1 => 
+  array (
+    'id_area' => '2',
+    'nombre_area' => 'Seguridad social Pensiones Incapacidades',
+  ),
+  2 => 
+  array (
+    'id_area' => '3',
+    'nombre_area' => 'Cesantias Cert laborales Constancias FNA',
+  ),
+  3 => 
+  array (
+    'id_area' => '5',
+    'nombre_area' => 'Otros',
+  ),
+  4 => 
+  array (
+    'id_area' => '7',
+    'nombre_area' => 'Solicitudes varias',
+  ),
+  5 => 
+  array (
+    'id_area' => '8',
+    'nombre_area' => 'Pago nomina y liquidaciones',
+  ),
+) 
+2014-06-11 16:15:32 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '1',
+      'nombre_area' => 'Cartas de ingreso al punto de venta Fondex',
+    ),
+    1 => 
+    array (
+      'id_area' => '2',
+      'nombre_area' => 'Seguridad social Pensiones Incapacidades',
+    ),
+    2 => 
+    array (
+      'id_area' => '3',
+      'nombre_area' => 'Cesantias Cert laborales Constancias FNA',
+    ),
+    3 => 
+    array (
+      'id_area' => '5',
+      'nombre_area' => 'Otros',
+    ),
+    4 => 
+    array (
+      'id_area' => '7',
+      'nombre_area' => 'Solicitudes varias',
+    ),
+    5 => 
+    array (
+      'id_area' => '8',
+      'nombre_area' => 'Pago nomina y liquidaciones',
+    ),
+  ),
+) 
+2014-06-11 16:15:40 --> crear el consumidor 
+2014-06-11 16:15:40 --> se creo el consumidor 2935 
+2014-06-11 16:15:40 --> la informacion de la sede es array (
+  'S_ID' => '3',
+  'S_NOMBRE' => 'NORTE',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional norte',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '0',
+) 
+2014-06-11 16:15:40 --> se va a extraer informacion del area  
+2014-06-11 16:15:40 --> la informacion del area es array (
+  'AR_ID' => '3',
+  'AR_NOMBRE' => 'SEGUIMIENTO_AL_SERVICIO',
+  'AR_DESCRIPCION' => 'Cesantias Cert laborales Constancias FNA',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'SAS',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-06-11 16:15:40 --> se va a crear el turno 
+2014-06-11 16:15:40 --> se creo el turno 11 del area SAS 
+
+2014-06-11 16:18:38 --> get_areas 1 
+2014-06-11 16:18:38 --> buscando areas del cliente 
+2014-06-11 16:18:38 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '1',
+    'nombre_area' => 'Cartas de ingreso al punto de venta Fondex',
+  ),
+  1 => 
+  array (
+    'id_area' => '2',
+    'nombre_area' => 'Seguridad social Pensiones Incapacidades',
+  ),
+  2 => 
+  array (
+    'id_area' => '3',
+    'nombre_area' => 'Cesantias Cert laborales Constancias FNA',
+  ),
+  3 => 
+  array (
+    'id_area' => '5',
+    'nombre_area' => 'Otros',
+  ),
+  4 => 
+  array (
+    'id_area' => '7',
+    'nombre_area' => 'Solicitudes varias',
+  ),
+  5 => 
+  array (
+    'id_area' => '8',
+    'nombre_area' => 'Pago nomina y liquidaciones',
+  ),
+) 
+2014-06-11 16:18:38 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '1',
+      'nombre_area' => 'Cartas de ingreso al punto de venta Fondex',
+    ),
+    1 => 
+    array (
+      'id_area' => '2',
+      'nombre_area' => 'Seguridad social Pensiones Incapacidades',
+    ),
+    2 => 
+    array (
+      'id_area' => '3',
+      'nombre_area' => 'Cesantias Cert laborales Constancias FNA',
+    ),
+    3 => 
+    array (
+      'id_area' => '5',
+      'nombre_area' => 'Otros',
+    ),
+    4 => 
+    array (
+      'id_area' => '7',
+      'nombre_area' => 'Solicitudes varias',
+    ),
+    5 => 
+    array (
+      'id_area' => '8',
+      'nombre_area' => 'Pago nomina y liquidaciones',
+    ),
+  ),
+) 
+2014-06-11 16:18:45 --> crear el consumidor 
+2014-06-11 16:18:45 --> se creo el consumidor 2937 
+2014-06-11 16:18:45 --> la informacion de la sede es array (
+  'S_ID' => '3',
+  'S_NOMBRE' => 'NORTE',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional norte',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '0',
+) 
+2014-06-11 16:18:45 --> se va a extraer informacion del area  
+2014-06-11 16:18:45 --> la informacion del area es array (
+  'AR_ID' => '3',
+  'AR_NOMBRE' => 'SEGUIMIENTO_AL_SERVICIO',
+  'AR_DESCRIPCION' => 'Cesantias Cert laborales Constancias FNA',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'SAS',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-06-11 16:18:45 --> se va a crear el turno 
+2014-06-11 16:18:45 --> se creo el turno 13 del area SAS 
+
+2014-06-11 16:18:55 --> get_areas 1 
+2014-06-11 16:18:55 --> buscando areas del cliente 
+2014-06-11 16:18:55 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '1',
+    'nombre_area' => 'Cartas de ingreso al punto de venta Fondex',
+  ),
+  1 => 
+  array (
+    'id_area' => '2',
+    'nombre_area' => 'Seguridad social Pensiones Incapacidades',
+  ),
+  2 => 
+  array (
+    'id_area' => '3',
+    'nombre_area' => 'Cesantias Cert laborales Constancias FNA',
+  ),
+  3 => 
+  array (
+    'id_area' => '5',
+    'nombre_area' => 'Otros',
+  ),
+  4 => 
+  array (
+    'id_area' => '7',
+    'nombre_area' => 'Solicitudes varias',
+  ),
+  5 => 
+  array (
+    'id_area' => '8',
+    'nombre_area' => 'Pago nomina y liquidaciones',
+  ),
+) 
+2014-06-11 16:18:55 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '1',
+      'nombre_area' => 'Cartas de ingreso al punto de venta Fondex',
+    ),
+    1 => 
+    array (
+      'id_area' => '2',
+      'nombre_area' => 'Seguridad social Pensiones Incapacidades',
+    ),
+    2 => 
+    array (
+      'id_area' => '3',
+      'nombre_area' => 'Cesantias Cert laborales Constancias FNA',
+    ),
+    3 => 
+    array (
+      'id_area' => '5',
+      'nombre_area' => 'Otros',
+    ),
+    4 => 
+    array (
+      'id_area' => '7',
+      'nombre_area' => 'Solicitudes varias',
+    ),
+    5 => 
+    array (
+      'id_area' => '8',
+      'nombre_area' => 'Pago nomina y liquidaciones',
+    ),
+  ),
+) 
+2014-06-11 16:19:02 --> crear el consumidor 
+2014-06-11 16:19:02 --> se creo el consumidor 2938 
+2014-06-11 16:19:02 --> la informacion de la sede es array (
+  'S_ID' => '3',
+  'S_NOMBRE' => 'NORTE',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional norte',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '0',
+) 
+2014-06-11 16:19:02 --> se va a extraer informacion del area  
+2014-06-11 16:19:02 --> la informacion del area es array (
+  'AR_ID' => '3',
+  'AR_NOMBRE' => 'SEGUIMIENTO_AL_SERVICIO',
+  'AR_DESCRIPCION' => 'Cesantias Cert laborales Constancias FNA',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'SAS',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-06-11 16:19:02 --> se va a crear el turno 
+2014-06-11 16:19:02 --> se creo el turno 14 del area SAS 

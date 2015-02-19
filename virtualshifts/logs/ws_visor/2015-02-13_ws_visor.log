@@ -1,0 +1,839 @@
+
+09:44:32datos de entrada login son: array (
+  'metodo' => 'login',
+  'username' => 'alvaro_naranjo',
+  'password' => '123456',
+  'gcm_id' => '',
+)
+09:44:32Hubo errores en el envio de datos
+09:44:32 datos de salida login son: array (
+  'status' => 'error',
+  'error_description' => '',
+  'datos' => 
+  array (
+  ),
+)
+
+09:46:43datos de entrada login son: array (
+  'metodo' => 'login',
+  'username' => 'alvaro_naranjo',
+  'password' => '123456',
+  'gcm_id' => '',
+)
+09:46:43Hubo errores en el envio de datos
+09:46:43 datos de salida login son: array (
+  'status' => 'error',
+  'error_description' => '',
+  'datos' => 
+  array (
+  ),
+)
+
+09:48:26datos de entrada login son: array (
+  'metodo' => 'login',
+  'username' => 'alvaro_naranjo',
+  'password' => '123456',
+  'gcm_id' => '',
+)
+09:48:26Hubo errores en el envio de datos
+09:48:26 datos de salida login son: array (
+  'status' => 'error',
+  'error_description' => '',
+  'datos' => 
+  array (
+  ),
+)
+
+10:03:17datos de entrada login son: array (
+  'metodo' => 'login',
+  'username' => 'alvaro_naranjo',
+  'password' => '123456',
+  'gcm_id' => '',
+)
+10:03:17Hubo errores en el envio de datos
+10:03:17 datos de salida login son: array (
+  'status' => 'error',
+  'error_description' => '',
+  'datos' => 
+  array (
+  ),
+)
+
+10:03:53datos de entrada login son: array (
+  'metodo' => 'login',
+  'username' => 'alvaro_naranjo',
+  'password' => '123456',
+  'gcm_id' => '',
+)
+10:03:53no hubo errores en el envio de datos
+10:03:53 datos de salida login son: NULL
+
+10:11:24datos de entrada login son: array (
+  'metodo' => 'login',
+  'username' => 'alvaro_naranjo',
+  'password' => '123456',
+  'gcm_id' => '',
+)
+10:11:24no hubo errores en el envio de datos
+10:11:24el usuario existe
+10:11:24el password coincide
+10:11:24la sede 4 muestra video
+10:11:24tiene videos
+10:11:24tiene imagenes
+10:11:24 datos de salida login son: array (
+  'status' => 'success',
+  'error_description' => '',
+  'datos' => 
+  array (
+    'nombres' => 'ALVARO NARANJO',
+    'id' => '10',
+    'id_sede' => '4',
+    'nombre_sede' => '4',
+    'muestra_video' => '1',
+    'videos' => 
+    array (
+      0 => 
+      array (
+        'VIS_S_ID' => '4',
+        'VIS_VID_ID' => '1',
+        'VID_ID' => '1',
+        'VID_DESCRIPCION' => 'Presentacion Eficacia',
+        'VID_CLI_ID' => '1',
+        'VID_URL' => 'http://ipvirtualmobile.com/virtualshifts/vids/Presentacion_Eficacia_Jun-17.mp4',
+        'VID_ACTIVO' => '1',
+        'VID_FECHACREACION' => '2014-08-11 00:00:00',
+        'VID_FECHASYS' => '2014-08-25 10:40:23',
+      ),
+    ),
+    'imagenes' => 
+    array (
+      0 => 
+      array (
+        'IMAS_IMA_ID' => '1',
+        'IMAS_S_ID' => '4',
+        'IMA_ID' => '1',
+        'IMA_DESCRIPCION' => 'Imagen extras prueba',
+        'IMA_CLI_ID' => '1',
+        'IMA_URL' => 'http://184.168.29.222/virtualshifts/images/imagenes/DSC_0036c.jpg',
+        'IMA_ACTIVO' => '1',
+        'IMA_FECHACREACION' => '2014-04-16 09:56:34',
+        'IMA_FECHASYS' => '2014-04-28 14:30:36',
+      ),
+    ),
+  ),
+)
+
+10:15:25datos de entrada login son: array (
+  'metodo' => 'login',
+  'username' => 'alvaro_naranjo',
+  'password' => '123456',
+  'gcm_id' => '',
+)
+10:15:25no hubo errores en el envio de datos
+10:15:25el usuario existe
+10:15:25el password coincide
+10:15:25la sede 4 muestra video
+10:15:25tiene videos
+10:15:25tiene imagenes
+10:15:25 datos de salida login son: array (
+  'status' => 'success',
+  'error_description' => '',
+  'datos' => 
+  array (
+    'nombres' => 'ALVARO NARANJO',
+    'id' => '10',
+    'id_sede' => '4',
+    'nombre_sede' => '4',
+    'muestra_video' => '1',
+    'videos' => 
+    array (
+      0 => 
+      array (
+        'VIS_S_ID' => '4',
+        'VIS_VID_ID' => '1',
+        'VID_ID' => '1',
+        'VID_DESCRIPCION' => 'Presentacion Eficacia',
+        'VID_CLI_ID' => '1',
+        'VID_URL' => 'http://ipvirtualmobile.com/virtualshifts/vids/Presentacion_Eficacia_Jun-17.mp4',
+        'VID_ACTIVO' => '1',
+        'VID_FECHACREACION' => '2014-08-11 00:00:00',
+        'VID_FECHASYS' => '2014-08-25 10:40:23',
+      ),
+    ),
+    'imagenes' => 
+    array (
+      0 => 
+      array (
+        'IMAS_IMA_ID' => '1',
+        'IMAS_S_ID' => '4',
+        'IMA_ID' => '1',
+        'IMA_DESCRIPCION' => 'Imagen extras prueba',
+        'IMA_CLI_ID' => '1',
+        'IMA_URL' => 'http://184.168.29.222/virtualshifts/images/imagenes/DSC_0036c.jpg',
+        'IMA_ACTIVO' => '1',
+        'IMA_FECHACREACION' => '2014-04-16 09:56:34',
+        'IMA_FECHASYS' => '2014-04-28 14:30:36',
+      ),
+    ),
+  ),
+)
+
+10:15:36datos de entrada login son: array (
+  'metodo' => 'login',
+  'username' => 'alvaro_naranjo',
+  'password' => '123456',
+  'gcm_id' => '',
+)
+10:15:36no hubo errores en el envio de datos
+10:15:36el usuario existe
+10:15:36el password coincide
+10:15:36la sede 4 muestra video
+10:15:36tiene videos
+10:15:36tiene imagenes
+10:15:36 datos de salida login son: array (
+  'status' => 'success',
+  'error_description' => '',
+  'datos' => 
+  array (
+    'nombres' => 'ALVARO NARANJO',
+    'id' => '10',
+    'id_sede' => '4',
+    'nombre_sede' => '4',
+    'muestra_video' => '1',
+    'videos' => 
+    array (
+      0 => 
+      array (
+        'VIS_S_ID' => '4',
+        'VIS_VID_ID' => '1',
+        'VID_ID' => '1',
+        'VID_DESCRIPCION' => 'Presentacion Eficacia',
+        'VID_CLI_ID' => '1',
+        'VID_URL' => 'http://ipvirtualmobile.com/virtualshifts/vids/Presentacion_Eficacia_Jun-17.mp4',
+        'VID_ACTIVO' => '1',
+        'VID_FECHACREACION' => '2014-08-11 00:00:00',
+        'VID_FECHASYS' => '2014-08-25 10:40:23',
+      ),
+    ),
+    'imagenes' => 
+    array (
+      0 => 
+      array (
+        'IMAS_IMA_ID' => '1',
+        'IMAS_S_ID' => '4',
+        'IMA_ID' => '1',
+        'IMA_DESCRIPCION' => 'Imagen extras prueba',
+        'IMA_CLI_ID' => '1',
+        'IMA_URL' => 'http://184.168.29.222/virtualshifts/images/imagenes/DSC_0036c.jpg',
+        'IMA_ACTIVO' => '1',
+        'IMA_FECHACREACION' => '2014-04-16 09:56:34',
+        'IMA_FECHASYS' => '2014-04-28 14:30:36',
+      ),
+    ),
+  ),
+)
+
+10:17:08datos de entrada login son: array (
+  'metodo' => 'login',
+  'username' => 'alvaro_naranjo',
+  'password' => '123456',
+  'gcm_id' => '',
+)
+10:17:08no hubo errores en el envio de datos
+10:17:08el usuario existe
+10:17:08el password coincide
+10:17:08la sede 4 muestra video
+10:17:08tiene videos
+10:17:08tiene imagenes
+10:17:08 datos de salida login son: array (
+  'status' => 'success',
+  'error_description' => '',
+  'datos' => 
+  array (
+    'nombres' => 'ALVARO NARANJO',
+    'id' => '10',
+    'id_sede' => '4',
+    'nombre_sede' => '4',
+    'muestra_video' => '1',
+    'videos' => 
+    array (
+      0 => 
+      array (
+        'VIS_S_ID' => '4',
+        'VIS_VID_ID' => '1',
+        'VID_ID' => '1',
+        'VID_DESCRIPCION' => 'Presentacion Eficacia',
+        'VID_CLI_ID' => '1',
+        'VID_URL' => 'http://ipvirtualmobile.com/virtualshifts/vids/Presentacion_Eficacia_Jun-17.mp4',
+        'VID_ACTIVO' => '1',
+        'VID_FECHACREACION' => '2014-08-11 00:00:00',
+        'VID_FECHASYS' => '2014-08-25 10:40:23',
+      ),
+    ),
+    'imagenes' => 
+    array (
+      0 => 
+      array (
+        'IMAS_IMA_ID' => '1',
+        'IMAS_S_ID' => '4',
+        'IMA_ID' => '1',
+        'IMA_DESCRIPCION' => 'Imagen extras prueba',
+        'IMA_CLI_ID' => '1',
+        'IMA_URL' => 'http://184.168.29.222/virtualshifts/images/imagenes/DSC_0036c.jpg',
+        'IMA_ACTIVO' => '1',
+        'IMA_FECHACREACION' => '2014-04-16 09:56:34',
+        'IMA_FECHASYS' => '2014-04-28 14:30:36',
+      ),
+    ),
+  ),
+)
+
+10:17:13datos de entrada login son: array (
+  'metodo' => 'login',
+  'username' => 'alvaro_naranjo',
+  'password' => '123456',
+  'gcm_id' => '',
+)
+10:17:13no hubo errores en el envio de datos
+10:17:13el usuario existe
+10:17:13el password coincide
+10:17:13la sede 4 muestra video
+10:17:13tiene videos
+10:17:13tiene imagenes
+10:17:13 datos de salida login son: array (
+  'status' => 'success',
+  'error_description' => '',
+  'datos' => 
+  array (
+    'nombres' => 'ALVARO NARANJO',
+    'id' => '10',
+    'id_sede' => '4',
+    'nombre_sede' => '4',
+    'muestra_video' => '1',
+    'videos' => 
+    array (
+      0 => 
+      array (
+        'VIS_S_ID' => '4',
+        'VIS_VID_ID' => '1',
+        'VID_ID' => '1',
+        'VID_DESCRIPCION' => 'Presentacion Eficacia',
+        'VID_CLI_ID' => '1',
+        'VID_URL' => 'http://ipvirtualmobile.com/virtualshifts/vids/Presentacion_Eficacia_Jun-17.mp4',
+        'VID_ACTIVO' => '1',
+        'VID_FECHACREACION' => '2014-08-11 00:00:00',
+        'VID_FECHASYS' => '2014-08-25 10:40:23',
+      ),
+    ),
+    'imagenes' => 
+    array (
+      0 => 
+      array (
+        'IMAS_IMA_ID' => '1',
+        'IMAS_S_ID' => '4',
+        'IMA_ID' => '1',
+        'IMA_DESCRIPCION' => 'Imagen extras prueba',
+        'IMA_CLI_ID' => '1',
+        'IMA_URL' => 'http://184.168.29.222/virtualshifts/images/imagenes/DSC_0036c.jpg',
+        'IMA_ACTIVO' => '1',
+        'IMA_FECHACREACION' => '2014-04-16 09:56:34',
+        'IMA_FECHASYS' => '2014-04-28 14:30:36',
+      ),
+    ),
+  ),
+)
+
+10:21:33datos de entrada login son: array (
+  'metodo' => 'login',
+  'username' => 'alvaro_naranjo',
+  'password' => '123456',
+  'gcm_id' => '',
+)
+10:21:33no hubo errores en el envio de datos
+10:21:33el usuario existe
+10:21:33el password coincide
+10:21:33la sede 4 muestra video
+10:21:33tiene videos
+10:21:33tiene imagenes
+10:21:33 datos de salida login son: array (
+  'status' => 'success',
+  'error_description' => '',
+  'datos' => 
+  array (
+    'nombres' => 'ALVARO NARANJO',
+    'id' => '10',
+    'id_sede' => '4',
+    'nombre_sede' => '4',
+    'muestra_video' => '1',
+    'videos' => 
+    array (
+      0 => 
+      array (
+        'VIS_S_ID' => '4',
+        'VIS_VID_ID' => '1',
+        'VID_ID' => '1',
+        'VID_DESCRIPCION' => 'Presentacion Eficacia',
+        'VID_CLI_ID' => '1',
+        'VID_URL' => 'http://ipvirtualmobile.com/virtualshifts/vids/Presentacion_Eficacia_Jun-17.mp4',
+        'VID_ACTIVO' => '1',
+        'VID_FECHACREACION' => '2014-08-11 00:00:00',
+        'VID_FECHASYS' => '2014-08-25 10:40:23',
+      ),
+    ),
+    'imagenes' => 
+    array (
+      0 => 
+      array (
+        'IMAS_IMA_ID' => '1',
+        'IMAS_S_ID' => '4',
+        'IMA_ID' => '1',
+        'IMA_DESCRIPCION' => 'Imagen extras prueba',
+        'IMA_CLI_ID' => '1',
+        'IMA_URL' => 'http://184.168.29.222/virtualshifts/images/imagenes/DSC_0036c.jpg',
+        'IMA_ACTIVO' => '1',
+        'IMA_FECHACREACION' => '2014-04-16 09:56:34',
+        'IMA_FECHASYS' => '2014-04-28 14:30:36',
+      ),
+    ),
+  ),
+)
+
+10:23:15datos de entrada login son: array (
+  'metodo' => 'login',
+  'username' => 'alvaro_naranjo',
+  'password' => '123456',
+  'gcm_id' => '',
+)
+10:23:15no hubo errores en el envio de datos
+10:23:15el usuario existe
+10:23:15el password coincide
+10:23:15la sede 4 muestra video
+10:23:15tiene videos
+10:23:15tiene imagenes
+10:23:15 datos de salida login son: array (
+  'status' => 'success',
+  'error_description' => '',
+  'datos' => 
+  array (
+    'nombres' => 'ALVARO NARANJO',
+    'id' => '10',
+    'id_sede' => '4',
+    'nombre_sede' => '4',
+    'muestra_video' => '1',
+    'videos' => 
+    array (
+      0 => 
+      array (
+        'VIS_S_ID' => '4',
+        'VIS_VID_ID' => '1',
+        'VID_ID' => '1',
+        'VID_DESCRIPCION' => 'Presentacion Eficacia',
+        'VID_CLI_ID' => '1',
+        'VID_URL' => 'http://ipvirtualmobile.com/virtualshifts/vids/Presentacion_Eficacia_Jun-17.mp4',
+        'VID_ACTIVO' => '1',
+        'VID_FECHACREACION' => '2014-08-11 00:00:00',
+        'VID_FECHASYS' => '2014-08-25 10:40:23',
+      ),
+    ),
+    'imagenes' => 
+    array (
+      0 => 
+      array (
+        'IMAS_IMA_ID' => '1',
+        'IMAS_S_ID' => '4',
+        'IMA_ID' => '1',
+        'IMA_DESCRIPCION' => 'Imagen extras prueba',
+        'IMA_CLI_ID' => '1',
+        'IMA_URL' => 'http://184.168.29.222/virtualshifts/images/imagenes/DSC_0036c.jpg',
+        'IMA_ACTIVO' => '1',
+        'IMA_FECHACREACION' => '2014-04-16 09:56:34',
+        'IMA_FECHASYS' => '2014-04-28 14:30:36',
+      ),
+    ),
+  ),
+)
+
+10:26:05datos de entrada login son: array (
+  'metodo' => 'login',
+  'username' => 'alvaro_naranjo',
+  'password' => '123456',
+  'gcm_id' => '',
+)
+10:26:05no hubo errores en el envio de datos
+10:26:05el usuario existe
+10:26:05el password coincide
+10:26:05la sede 4 muestra video
+10:26:05tiene videos
+10:26:05tiene imagenes
+10:26:05 datos de salida login son: array (
+  'status' => 'success',
+  'error_description' => '',
+  'datos' => 
+  array (
+    'nombres' => 'ALVARO NARANJO',
+    'id' => '10',
+    'id_sede' => '4',
+    'nombre_sede' => '4',
+    'muestra_video' => '1',
+    'videos' => 
+    array (
+      0 => 
+      array (
+        'VIS_S_ID' => '4',
+        'VIS_VID_ID' => '1',
+        'VID_ID' => '1',
+        'VID_DESCRIPCION' => 'Presentacion Eficacia',
+        'VID_CLI_ID' => '1',
+        'VID_URL' => 'http://ipvirtualmobile.com/virtualshifts/vids/Presentacion_Eficacia_Jun-17.mp4',
+        'VID_ACTIVO' => '1',
+        'VID_FECHACREACION' => '2014-08-11 00:00:00',
+        'VID_FECHASYS' => '2014-08-25 10:40:23',
+      ),
+    ),
+    'imagenes' => 
+    array (
+      0 => 
+      array (
+        'IMAS_IMA_ID' => '1',
+        'IMAS_S_ID' => '4',
+        'IMA_ID' => '1',
+        'IMA_DESCRIPCION' => 'Imagen extras prueba',
+        'IMA_CLI_ID' => '1',
+        'IMA_URL' => 'http://184.168.29.222/virtualshifts/images/imagenes/DSC_0036c.jpg',
+        'IMA_ACTIVO' => '1',
+        'IMA_FECHACREACION' => '2014-04-16 09:56:34',
+        'IMA_FECHASYS' => '2014-04-28 14:30:36',
+      ),
+    ),
+  ),
+)
+
+10:28:46datos de entrada login son: array (
+  'metodo' => 'login',
+  'username' => 'alvaro_naranjo',
+  'password' => '123456',
+  'gcm_id' => '',
+)
+10:28:46no hubo errores en el envio de datos
+10:28:46el usuario existe
+10:28:46el password coincide
+10:28:46la sede 4 muestra video
+10:28:46tiene videos
+10:28:46tiene imagenes
+10:28:46 datos de salida login son: array (
+  'status' => 'success',
+  'error_description' => '',
+  'datos' => 
+  array (
+    'nombres' => 'ALVARO NARANJO',
+    'id' => '10',
+    'id_sede' => '4',
+    'nombre_sede' => '4',
+    'muestra_video' => '1',
+    'videos' => 
+    array (
+      0 => 
+      array (
+        'VIS_S_ID' => '4',
+        'VIS_VID_ID' => '1',
+        'VID_ID' => '1',
+        'VID_DESCRIPCION' => 'Presentacion Eficacia',
+        'VID_CLI_ID' => '1',
+        'VID_URL' => 'http://ipvirtualmobile.com/virtualshifts/vids/Presentacion_Eficacia_Jun-17.mp4',
+        'VID_ACTIVO' => '1',
+        'VID_FECHACREACION' => '2014-08-11 00:00:00',
+        'VID_FECHASYS' => '2014-08-25 10:40:23',
+      ),
+    ),
+    'imagenes' => 
+    array (
+      0 => 
+      array (
+        'IMAS_IMA_ID' => '1',
+        'IMAS_S_ID' => '4',
+        'IMA_ID' => '1',
+        'IMA_DESCRIPCION' => 'Imagen extras prueba',
+        'IMA_CLI_ID' => '1',
+        'IMA_URL' => 'http://184.168.29.222/virtualshifts/images/imagenes/DSC_0036c.jpg',
+        'IMA_ACTIVO' => '1',
+        'IMA_FECHACREACION' => '2014-04-16 09:56:34',
+        'IMA_FECHASYS' => '2014-04-28 14:30:36',
+      ),
+    ),
+  ),
+)
+
+10:35:14datos de entrada login son: array (
+  'metodo' => 'login',
+  'username' => 'alvaro_naranjo',
+  'password' => '123456',
+  'gcm_id' => '',
+)
+10:35:14no hubo errores en el envio de datos
+10:35:14el usuario existe
+10:35:14el password coincide
+10:35:14la sede 4 muestra video
+10:35:14tiene videos
+10:35:14tiene imagenes
+10:35:14 datos de salida login son: array (
+  'status' => 'success',
+  'error_description' => '',
+  'datos' => 
+  array (
+    'nombres' => 'ALVARO NARANJO',
+    'id' => '10',
+    'id_sede' => '4',
+    'nombre_sede' => '4',
+    'muestra_video' => '1',
+    'videos' => 
+    array (
+      0 => 
+      array (
+        'VIS_S_ID' => '4',
+        'VIS_VID_ID' => '1',
+        'VID_ID' => '1',
+        'VID_DESCRIPCION' => 'Presentacion Eficacia',
+        'VID_CLI_ID' => '1',
+        'VID_URL' => 'http://ipvirtualmobile.com/virtualshifts/vids/Presentacion_Eficacia_Jun-17.mp4',
+        'VID_ACTIVO' => '1',
+        'VID_FECHACREACION' => '2014-08-11 00:00:00',
+        'VID_FECHASYS' => '2014-08-25 10:40:23',
+      ),
+    ),
+    'imagenes' => 
+    array (
+      0 => 
+      array (
+        'IMAS_IMA_ID' => '1',
+        'IMAS_S_ID' => '4',
+        'IMA_ID' => '1',
+        'IMA_DESCRIPCION' => 'Imagen extras prueba',
+        'IMA_CLI_ID' => '1',
+        'IMA_URL' => 'http://184.168.29.222/virtualshifts/images/imagenes/DSC_0036c.jpg',
+        'IMA_ACTIVO' => '1',
+        'IMA_FECHACREACION' => '2014-04-16 09:56:34',
+        'IMA_FECHASYS' => '2014-04-28 14:30:36',
+      ),
+    ),
+  ),
+)
+
+10:39:31datos de entrada login son: array (
+  'metodo' => 'login',
+  'username' => 'alvaro_naranjo',
+  'password' => '123456',
+  'gcm_id' => '',
+)
+10:39:31no hubo errores en el envio de datos
+10:39:31el usuario existe
+10:39:31el password coincide
+10:39:31la sede 4 muestra video
+10:39:31tiene videos
+10:39:31tiene imagenes
+10:39:31 datos de salida login son: array (
+  'status' => 'success',
+  'error_description' => '',
+  'datos' => 
+  array (
+    'nombres' => 'ALVARO NARANJO',
+    'id' => '10',
+    'id_sede' => '4',
+    'nombre_sede' => '4',
+    'muestra_video' => '1',
+    'videos' => 
+    array (
+      0 => 
+      array (
+        'VIS_S_ID' => '4',
+        'VIS_VID_ID' => '1',
+        'VID_ID' => '1',
+        'VID_DESCRIPCION' => 'Presentacion Eficacia',
+        'VID_CLI_ID' => '1',
+        'VID_URL' => 'http://ipvirtualmobile.com/virtualshifts/vids/Presentacion_Eficacia_Jun-17.mp4',
+        'VID_ACTIVO' => '1',
+        'VID_FECHACREACION' => '2014-08-11 00:00:00',
+        'VID_FECHASYS' => '2014-08-25 10:40:23',
+      ),
+    ),
+    'imagenes' => 
+    array (
+      0 => 
+      array (
+        'IMAS_IMA_ID' => '1',
+        'IMAS_S_ID' => '4',
+        'IMA_ID' => '1',
+        'IMA_DESCRIPCION' => 'Imagen extras prueba',
+        'IMA_CLI_ID' => '1',
+        'IMA_URL' => 'http://184.168.29.222/virtualshifts/images/imagenes/DSC_0036c.jpg',
+        'IMA_ACTIVO' => '1',
+        'IMA_FECHACREACION' => '2014-04-16 09:56:34',
+        'IMA_FECHASYS' => '2014-04-28 14:30:36',
+      ),
+    ),
+  ),
+)
+
+10:39:37datos de entrada login son: array (
+  'metodo' => 'login',
+  'username' => 'alvaro_naranjo',
+  'password' => '123456',
+  'gcm_id' => '',
+)
+10:39:37no hubo errores en el envio de datos
+10:39:37el usuario existe
+10:39:37el password coincide
+10:39:37la sede 4 muestra video
+10:39:37tiene videos
+10:39:37tiene imagenes
+10:39:37 datos de salida login son: array (
+  'status' => 'success',
+  'error_description' => '',
+  'datos' => 
+  array (
+    'nombres' => 'ALVARO NARANJO',
+    'id' => '10',
+    'id_sede' => '4',
+    'nombre_sede' => '4',
+    'muestra_video' => '1',
+    'videos' => 
+    array (
+      0 => 
+      array (
+        'VIS_S_ID' => '4',
+        'VIS_VID_ID' => '1',
+        'VID_ID' => '1',
+        'VID_DESCRIPCION' => 'Presentacion Eficacia',
+        'VID_CLI_ID' => '1',
+        'VID_URL' => 'http://ipvirtualmobile.com/virtualshifts/vids/Presentacion_Eficacia_Jun-17.mp4',
+        'VID_ACTIVO' => '1',
+        'VID_FECHACREACION' => '2014-08-11 00:00:00',
+        'VID_FECHASYS' => '2014-08-25 10:40:23',
+      ),
+    ),
+    'imagenes' => 
+    array (
+      0 => 
+      array (
+        'IMAS_IMA_ID' => '1',
+        'IMAS_S_ID' => '4',
+        'IMA_ID' => '1',
+        'IMA_DESCRIPCION' => 'Imagen extras prueba',
+        'IMA_CLI_ID' => '1',
+        'IMA_URL' => 'http://184.168.29.222/virtualshifts/images/imagenes/DSC_0036c.jpg',
+        'IMA_ACTIVO' => '1',
+        'IMA_FECHACREACION' => '2014-04-16 09:56:34',
+        'IMA_FECHASYS' => '2014-04-28 14:30:36',
+      ),
+    ),
+  ),
+)
+
+11:07:12datos de entrada login son: array (
+  'metodo' => 'login',
+  'username' => 'alvaro_naranjo',
+  'password' => '123456',
+  'gcm_id' => '',
+)
+11:07:12no hubo errores en el envio de datos
+11:07:12el usuario existe
+11:07:12el password coincide
+11:07:12la sede 4 muestra video
+11:07:12tiene videos
+11:07:12tiene imagenes
+11:07:12 datos de salida login son: array (
+  'status' => 'success',
+  'error_description' => '',
+  'datos' => 
+  array (
+    'nombres' => 'ALVARO NARANJO',
+    'id' => '10',
+    'id_sede' => '4',
+    'nombre_sede' => '4',
+    'muestra_video' => '1',
+    'videos' => 
+    array (
+      0 => 
+      array (
+        'VIS_S_ID' => '4',
+        'VIS_VID_ID' => '1',
+        'VID_ID' => '1',
+        'VID_DESCRIPCION' => 'Presentacion Eficacia',
+        'VID_CLI_ID' => '1',
+        'VID_URL' => 'http://ipvirtualmobile.com/virtualshifts/vids/Presentacion_Eficacia_Jun-17.mp4',
+        'VID_ACTIVO' => '1',
+        'VID_FECHACREACION' => '2014-08-11 00:00:00',
+        'VID_FECHASYS' => '2014-08-25 10:40:23',
+      ),
+    ),
+    'imagenes' => 
+    array (
+      0 => 
+      array (
+        'IMAS_IMA_ID' => '1',
+        'IMAS_S_ID' => '4',
+        'IMA_ID' => '1',
+        'IMA_DESCRIPCION' => 'Imagen extras prueba',
+        'IMA_CLI_ID' => '1',
+        'IMA_URL' => 'http://184.168.29.222/virtualshifts/images/imagenes/DSC_0036c.jpg',
+        'IMA_ACTIVO' => '1',
+        'IMA_FECHACREACION' => '2014-04-16 09:56:34',
+        'IMA_FECHASYS' => '2014-04-28 14:30:36',
+      ),
+    ),
+  ),
+)
+
+11:17:37datos de entrada login son: array (
+  'metodo' => 'login',
+  'username' => 'alvaro_naranjo',
+  'password' => '123456',
+  'gcm_id' => '',
+)
+11:17:37no hubo errores en el envio de datos
+11:17:37el usuario existe
+11:17:37el password coincide
+11:17:37la sede 4 muestra video
+11:17:37tiene videos
+11:17:37tiene imagenes
+11:17:37 datos de salida login son: array (
+  'status' => 'success',
+  'error_description' => '',
+  'datos' => 
+  array (
+    'nombres' => 'ALVARO NARANJO',
+    'id' => '10',
+    'id_sede' => '4',
+    'nombre_sede' => '4',
+    'muestra_video' => '1',
+    'videos' => 
+    array (
+      0 => 
+      array (
+        'VIS_S_ID' => '4',
+        'VIS_VID_ID' => '1',
+        'VID_ID' => '1',
+        'VID_DESCRIPCION' => 'Presentacion Eficacia',
+        'VID_CLI_ID' => '1',
+        'VID_URL' => 'http://ipvirtualmobile.com/virtualshifts/vids/Presentacion_Eficacia_Jun-17.mp4',
+        'VID_ACTIVO' => '1',
+        'VID_FECHACREACION' => '2014-08-11 00:00:00',
+        'VID_FECHASYS' => '2014-08-25 10:40:23',
+      ),
+    ),
+    'imagenes' => 
+    array (
+      0 => 
+      array (
+        'IMAS_IMA_ID' => '1',
+        'IMAS_S_ID' => '4',
+        'IMA_ID' => '1',
+        'IMA_DESCRIPCION' => 'Imagen extras prueba',
+        'IMA_CLI_ID' => '1',
+        'IMA_URL' => 'http://184.168.29.222/virtualshifts/images/imagenes/DSC_0036c.jpg',
+        'IMA_ACTIVO' => '1',
+        'IMA_FECHACREACION' => '2014-04-16 09:56:34',
+        'IMA_FECHASYS' => '2014-04-28 14:30:36',
+      ),
+    ),
+  ),
+)

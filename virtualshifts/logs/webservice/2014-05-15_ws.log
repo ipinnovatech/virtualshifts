@@ -1,0 +1,111 @@
+
+2014-05-15 12:25:01 --> get_areas 2 
+2014-05-15 12:25:01 --> buscando areas del cliente 
+2014-05-15 12:25:01 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-15 12:25:01 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+2014-05-15 12:25:05 --> crear el consumidor 
+2014-05-15 12:25:05 --> se creo el consumidor 728 
+2014-05-15 12:25:05 --> la informacion de la sede es array (
+  'S_ID' => '1',
+  'S_NOMBRE' => 'ANTIOQUIA',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional antioquia',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '3',
+  'S_MUESTRA_VIDEO' => '0',
+) 
+2014-05-15 12:25:05 --> se va a extraer informacion del area  
+2014-05-15 12:25:05 --> la informacion del area es array (
+  'AR_ID' => '9',
+  'AR_NOMBRE' => 'Documentos',
+  'AR_DESCRIPCION' => 'Area de documentos',
+  'AR_C_ID' => '2',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'DC',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '1',
+) 
+2014-05-15 12:25:05 --> se va a crear el turno 
+2014-05-15 12:25:05 --> se creo el turno 1 del area DC 
+
+2014-05-15 19:19:24 --> get_areas  
+2014-05-15 19:19:24 --> buscando areas del cliente 
+
+2014-05-15 19:19:25 --> get_areas  
+2014-05-15 19:19:25 --> buscando areas del cliente 
+
+2014-05-15 19:22:14 --> get_areas  
+2014-05-15 19:22:14 --> buscando areas del cliente 
+
+2014-05-15 19:22:21 --> get_areas  
+2014-05-15 19:22:21 --> buscando areas del cliente 
+
+2014-05-15 19:24:45 --> get_areas  
+2014-05-15 19:24:45 --> buscando areas del cliente 
+
+2014-05-15 19:24:47 --> get_areas  
+2014-05-15 19:24:47 --> buscando areas del cliente 
+
+2014-05-15 19:37:47 --> get_areas 2 
+2014-05-15 19:37:47 --> buscando areas del cliente 
+2014-05-15 19:37:47 --> salida NULL 
+
+2014-05-15 19:37:51 --> get_areas 2 
+2014-05-15 19:37:51 --> buscando areas del cliente 
+2014-05-15 19:37:51 --> salida NULL 
+
+2014-05-15 20:34:38 --> get_areas 2 
+2014-05-15 20:34:38 --> buscando areas del cliente 
+2014-05-15 20:34:38 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-15 20:34:38 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+2014-05-15 20:34:45 --> crear el consumidor 
+2014-05-15 20:34:45 --> se creo el consumidor 750 
+2014-05-15 20:34:45 --> la informacion de la sede es array (
+  'S_ID' => '1',
+  'S_NOMBRE' => 'ANTIOQUIA',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional antioquia',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '3',
+  'S_MUESTRA_VIDEO' => '0',
+) 
+2014-05-15 20:34:45 --> se va a extraer informacion del area  
+2014-05-15 20:34:45 --> la informacion del area es array (
+) 
+2014-05-15 20:34:45 --> se va a crear el turno 
+2014-05-15 20:34:45 --> se creo el turno 2 del area  

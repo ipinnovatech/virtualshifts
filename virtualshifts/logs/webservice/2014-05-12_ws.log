@@ -1,0 +1,2293 @@
+
+2014-05-12 07:53:08 --> get_areas 1 
+2014-05-12 07:53:08 --> buscando areas del cliente 
+2014-05-12 07:53:08 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '1',
+    'nombre_area' => 'GERENCIAMIENTO_DEL_SERVICIO',
+  ),
+  1 => 
+  array (
+    'id_area' => '2',
+    'nombre_area' => 'ADMINISTRACION_DE_LA_SEGURIDAD_SOCIAL_Y_PARAFISCALES',
+  ),
+  2 => 
+  array (
+    'id_area' => '3',
+    'nombre_area' => 'SEGUIMIENTO_AL_SERVICIO',
+  ),
+  3 => 
+  array (
+    'id_area' => '4',
+    'nombre_area' => 'SELECCION_Y_VINCULACION',
+  ),
+  4 => 
+  array (
+    'id_area' => '5',
+    'nombre_area' => 'OTROS',
+  ),
+  5 => 
+  array (
+    'id_area' => '7',
+    'nombre_area' => 'VARIOS_REQUERIMIENTOS',
+  ),
+  6 => 
+  array (
+    'id_area' => '8',
+    'nombre_area' => 'COMPENSACION_SALARIAL',
+  ),
+) 
+2014-05-12 07:53:08 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '1',
+      'nombre_area' => 'GERENCIAMIENTO_DEL_SERVICIO',
+    ),
+    1 => 
+    array (
+      'id_area' => '2',
+      'nombre_area' => 'ADMINISTRACION_DE_LA_SEGURIDAD_SOCIAL_Y_PARAFISCALES',
+    ),
+    2 => 
+    array (
+      'id_area' => '3',
+      'nombre_area' => 'SEGUIMIENTO_AL_SERVICIO',
+    ),
+    3 => 
+    array (
+      'id_area' => '4',
+      'nombre_area' => 'SELECCION_Y_VINCULACION',
+    ),
+    4 => 
+    array (
+      'id_area' => '5',
+      'nombre_area' => 'OTROS',
+    ),
+    5 => 
+    array (
+      'id_area' => '7',
+      'nombre_area' => 'VARIOS_REQUERIMIENTOS',
+    ),
+    6 => 
+    array (
+      'id_area' => '8',
+      'nombre_area' => 'COMPENSACION_SALARIAL',
+    ),
+  ),
+) 
+2014-05-12 07:53:08 --> crear el consumidor 
+2014-05-12 07:53:08 --> se creo el consumidor 619 
+2014-05-12 07:53:08 --> la informacion de la sede es array (
+  'S_ID' => '1',
+  'S_NOMBRE' => 'ANTIOQUIA',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional antioquia',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '3',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-05-12 07:53:08 --> se va a extraer informacion del area  
+2014-05-12 07:53:08 --> la informacion del area es array (
+) 
+2014-05-12 07:53:08 --> se va a crear el turno 
+2014-05-12 07:53:08 --> se creo el turno 1 del area  
+
+2014-05-12 07:53:23 --> get_areas 1 
+2014-05-12 07:53:23 --> buscando areas del cliente 
+2014-05-12 07:53:23 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '1',
+    'nombre_area' => 'GERENCIAMIENTO_DEL_SERVICIO',
+  ),
+  1 => 
+  array (
+    'id_area' => '2',
+    'nombre_area' => 'ADMINISTRACION_DE_LA_SEGURIDAD_SOCIAL_Y_PARAFISCALES',
+  ),
+  2 => 
+  array (
+    'id_area' => '3',
+    'nombre_area' => 'SEGUIMIENTO_AL_SERVICIO',
+  ),
+  3 => 
+  array (
+    'id_area' => '4',
+    'nombre_area' => 'SELECCION_Y_VINCULACION',
+  ),
+  4 => 
+  array (
+    'id_area' => '5',
+    'nombre_area' => 'OTROS',
+  ),
+  5 => 
+  array (
+    'id_area' => '7',
+    'nombre_area' => 'VARIOS_REQUERIMIENTOS',
+  ),
+  6 => 
+  array (
+    'id_area' => '8',
+    'nombre_area' => 'COMPENSACION_SALARIAL',
+  ),
+) 
+2014-05-12 07:53:23 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '1',
+      'nombre_area' => 'GERENCIAMIENTO_DEL_SERVICIO',
+    ),
+    1 => 
+    array (
+      'id_area' => '2',
+      'nombre_area' => 'ADMINISTRACION_DE_LA_SEGURIDAD_SOCIAL_Y_PARAFISCALES',
+    ),
+    2 => 
+    array (
+      'id_area' => '3',
+      'nombre_area' => 'SEGUIMIENTO_AL_SERVICIO',
+    ),
+    3 => 
+    array (
+      'id_area' => '4',
+      'nombre_area' => 'SELECCION_Y_VINCULACION',
+    ),
+    4 => 
+    array (
+      'id_area' => '5',
+      'nombre_area' => 'OTROS',
+    ),
+    5 => 
+    array (
+      'id_area' => '7',
+      'nombre_area' => 'VARIOS_REQUERIMIENTOS',
+    ),
+    6 => 
+    array (
+      'id_area' => '8',
+      'nombre_area' => 'COMPENSACION_SALARIAL',
+    ),
+  ),
+) 
+2014-05-12 07:53:23 --> crear el consumidor 
+2014-05-12 07:53:28 --> se creo el consumidor 620 
+2014-05-12 07:53:28 --> la informacion de la sede es array (
+  'S_ID' => '1',
+  'S_NOMBRE' => 'ANTIOQUIA',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional antioquia',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '3',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-05-12 07:53:28 --> se va a extraer informacion del area  
+2014-05-12 07:53:28 --> la informacion del area es array (
+) 
+2014-05-12 07:53:28 --> se va a crear el turno 
+2014-05-12 07:53:28 --> se creo el turno 2 del area  
+
+2014-05-12 07:54:33 --> get_areas 1 
+2014-05-12 07:54:33 --> buscando areas del cliente 
+2014-05-12 07:54:33 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '1',
+    'nombre_area' => 'GERENCIAMIENTO_DEL_SERVICIO',
+  ),
+  1 => 
+  array (
+    'id_area' => '2',
+    'nombre_area' => 'ADMINISTRACION_DE_LA_SEGURIDAD_SOCIAL_Y_PARAFISCALES',
+  ),
+  2 => 
+  array (
+    'id_area' => '3',
+    'nombre_area' => 'SEGUIMIENTO_AL_SERVICIO',
+  ),
+  3 => 
+  array (
+    'id_area' => '4',
+    'nombre_area' => 'SELECCION_Y_VINCULACION',
+  ),
+  4 => 
+  array (
+    'id_area' => '5',
+    'nombre_area' => 'OTROS',
+  ),
+  5 => 
+  array (
+    'id_area' => '7',
+    'nombre_area' => 'VARIOS_REQUERIMIENTOS',
+  ),
+  6 => 
+  array (
+    'id_area' => '8',
+    'nombre_area' => 'COMPENSACION_SALARIAL',
+  ),
+) 
+2014-05-12 07:54:33 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '1',
+      'nombre_area' => 'GERENCIAMIENTO_DEL_SERVICIO',
+    ),
+    1 => 
+    array (
+      'id_area' => '2',
+      'nombre_area' => 'ADMINISTRACION_DE_LA_SEGURIDAD_SOCIAL_Y_PARAFISCALES',
+    ),
+    2 => 
+    array (
+      'id_area' => '3',
+      'nombre_area' => 'SEGUIMIENTO_AL_SERVICIO',
+    ),
+    3 => 
+    array (
+      'id_area' => '4',
+      'nombre_area' => 'SELECCION_Y_VINCULACION',
+    ),
+    4 => 
+    array (
+      'id_area' => '5',
+      'nombre_area' => 'OTROS',
+    ),
+    5 => 
+    array (
+      'id_area' => '7',
+      'nombre_area' => 'VARIOS_REQUERIMIENTOS',
+    ),
+    6 => 
+    array (
+      'id_area' => '8',
+      'nombre_area' => 'COMPENSACION_SALARIAL',
+    ),
+  ),
+) 
+2014-05-12 07:54:33 --> crear el consumidor 
+2014-05-12 07:54:33 --> se creo el consumidor 621 
+2014-05-12 07:54:33 --> la informacion de la sede es array (
+  'S_ID' => '1',
+  'S_NOMBRE' => 'ANTIOQUIA',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional antioquia',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '3',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-05-12 07:54:33 --> se va a extraer informacion del area  
+2014-05-12 07:54:33 --> la informacion del area es array (
+) 
+2014-05-12 07:54:33 --> se va a crear el turno 
+2014-05-12 07:54:33 --> se creo el turno 3 del area  
+
+2014-05-12 07:59:23 --> get_areas 1 
+2014-05-12 07:59:23 --> buscando areas del cliente 
+2014-05-12 07:59:23 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '1',
+    'nombre_area' => 'GERENCIAMIENTO_DEL_SERVICIO',
+  ),
+  1 => 
+  array (
+    'id_area' => '2',
+    'nombre_area' => 'ADMINISTRACION_DE_LA_SEGURIDAD_SOCIAL_Y_PARAFISCALES',
+  ),
+  2 => 
+  array (
+    'id_area' => '3',
+    'nombre_area' => 'SEGUIMIENTO_AL_SERVICIO',
+  ),
+  3 => 
+  array (
+    'id_area' => '4',
+    'nombre_area' => 'SELECCION_Y_VINCULACION',
+  ),
+  4 => 
+  array (
+    'id_area' => '5',
+    'nombre_area' => 'OTROS',
+  ),
+  5 => 
+  array (
+    'id_area' => '7',
+    'nombre_area' => 'VARIOS_REQUERIMIENTOS',
+  ),
+  6 => 
+  array (
+    'id_area' => '8',
+    'nombre_area' => 'COMPENSACION_SALARIAL',
+  ),
+) 
+2014-05-12 07:59:23 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '1',
+      'nombre_area' => 'GERENCIAMIENTO_DEL_SERVICIO',
+    ),
+    1 => 
+    array (
+      'id_area' => '2',
+      'nombre_area' => 'ADMINISTRACION_DE_LA_SEGURIDAD_SOCIAL_Y_PARAFISCALES',
+    ),
+    2 => 
+    array (
+      'id_area' => '3',
+      'nombre_area' => 'SEGUIMIENTO_AL_SERVICIO',
+    ),
+    3 => 
+    array (
+      'id_area' => '4',
+      'nombre_area' => 'SELECCION_Y_VINCULACION',
+    ),
+    4 => 
+    array (
+      'id_area' => '5',
+      'nombre_area' => 'OTROS',
+    ),
+    5 => 
+    array (
+      'id_area' => '7',
+      'nombre_area' => 'VARIOS_REQUERIMIENTOS',
+    ),
+    6 => 
+    array (
+      'id_area' => '8',
+      'nombre_area' => 'COMPENSACION_SALARIAL',
+    ),
+  ),
+) 
+2014-05-12 07:59:40 --> crear el consumidor 
+2014-05-12 07:59:40 --> se creo el consumidor 622 
+2014-05-12 07:59:40 --> la informacion de la sede es array (
+  'S_ID' => '1',
+  'S_NOMBRE' => 'ANTIOQUIA',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional antioquia',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '3',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-05-12 07:59:40 --> se va a extraer informacion del area  
+2014-05-12 07:59:40 --> la informacion del area es array (
+) 
+2014-05-12 07:59:40 --> se va a crear el turno 
+2014-05-12 07:59:40 --> se creo el turno 4 del area  
+
+2014-05-12 08:00:17 --> get_areas 1 
+2014-05-12 08:00:17 --> buscando areas del cliente 
+2014-05-12 08:00:17 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '1',
+    'nombre_area' => 'GERENCIAMIENTO_DEL_SERVICIO',
+  ),
+  1 => 
+  array (
+    'id_area' => '2',
+    'nombre_area' => 'ADMINISTRACION_DE_LA_SEGURIDAD_SOCIAL_Y_PARAFISCALES',
+  ),
+  2 => 
+  array (
+    'id_area' => '3',
+    'nombre_area' => 'SEGUIMIENTO_AL_SERVICIO',
+  ),
+  3 => 
+  array (
+    'id_area' => '4',
+    'nombre_area' => 'SELECCION_Y_VINCULACION',
+  ),
+  4 => 
+  array (
+    'id_area' => '5',
+    'nombre_area' => 'OTROS',
+  ),
+  5 => 
+  array (
+    'id_area' => '7',
+    'nombre_area' => 'VARIOS_REQUERIMIENTOS',
+  ),
+  6 => 
+  array (
+    'id_area' => '8',
+    'nombre_area' => 'COMPENSACION_SALARIAL',
+  ),
+) 
+2014-05-12 08:00:17 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '1',
+      'nombre_area' => 'GERENCIAMIENTO_DEL_SERVICIO',
+    ),
+    1 => 
+    array (
+      'id_area' => '2',
+      'nombre_area' => 'ADMINISTRACION_DE_LA_SEGURIDAD_SOCIAL_Y_PARAFISCALES',
+    ),
+    2 => 
+    array (
+      'id_area' => '3',
+      'nombre_area' => 'SEGUIMIENTO_AL_SERVICIO',
+    ),
+    3 => 
+    array (
+      'id_area' => '4',
+      'nombre_area' => 'SELECCION_Y_VINCULACION',
+    ),
+    4 => 
+    array (
+      'id_area' => '5',
+      'nombre_area' => 'OTROS',
+    ),
+    5 => 
+    array (
+      'id_area' => '7',
+      'nombre_area' => 'VARIOS_REQUERIMIENTOS',
+    ),
+    6 => 
+    array (
+      'id_area' => '8',
+      'nombre_area' => 'COMPENSACION_SALARIAL',
+    ),
+  ),
+) 
+2014-05-12 08:00:18 --> crear el consumidor 
+2014-05-12 08:00:18 --> se creo el consumidor 623 
+2014-05-12 08:00:18 --> la informacion de la sede es array (
+  'S_ID' => '1',
+  'S_NOMBRE' => 'ANTIOQUIA',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional antioquia',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '3',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-05-12 08:00:18 --> se va a extraer informacion del area  
+2014-05-12 08:00:18 --> la informacion del area es array (
+) 
+2014-05-12 08:00:18 --> se va a crear el turno 
+2014-05-12 08:00:18 --> se creo el turno 5 del area  
+
+2014-05-12 08:01:40 --> get_areas 1 
+2014-05-12 08:01:40 --> buscando areas del cliente 
+2014-05-12 08:01:40 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '1',
+    'nombre_area' => 'GERENCIAMIENTO_DEL_SERVICIO',
+  ),
+  1 => 
+  array (
+    'id_area' => '2',
+    'nombre_area' => 'ADMINISTRACION_DE_LA_SEGURIDAD_SOCIAL_Y_PARAFISCALES',
+  ),
+  2 => 
+  array (
+    'id_area' => '3',
+    'nombre_area' => 'SEGUIMIENTO_AL_SERVICIO',
+  ),
+  3 => 
+  array (
+    'id_area' => '4',
+    'nombre_area' => 'SELECCION_Y_VINCULACION',
+  ),
+  4 => 
+  array (
+    'id_area' => '5',
+    'nombre_area' => 'OTROS',
+  ),
+  5 => 
+  array (
+    'id_area' => '7',
+    'nombre_area' => 'VARIOS_REQUERIMIENTOS',
+  ),
+  6 => 
+  array (
+    'id_area' => '8',
+    'nombre_area' => 'COMPENSACION_SALARIAL',
+  ),
+) 
+2014-05-12 08:01:40 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '1',
+      'nombre_area' => 'GERENCIAMIENTO_DEL_SERVICIO',
+    ),
+    1 => 
+    array (
+      'id_area' => '2',
+      'nombre_area' => 'ADMINISTRACION_DE_LA_SEGURIDAD_SOCIAL_Y_PARAFISCALES',
+    ),
+    2 => 
+    array (
+      'id_area' => '3',
+      'nombre_area' => 'SEGUIMIENTO_AL_SERVICIO',
+    ),
+    3 => 
+    array (
+      'id_area' => '4',
+      'nombre_area' => 'SELECCION_Y_VINCULACION',
+    ),
+    4 => 
+    array (
+      'id_area' => '5',
+      'nombre_area' => 'OTROS',
+    ),
+    5 => 
+    array (
+      'id_area' => '7',
+      'nombre_area' => 'VARIOS_REQUERIMIENTOS',
+    ),
+    6 => 
+    array (
+      'id_area' => '8',
+      'nombre_area' => 'COMPENSACION_SALARIAL',
+    ),
+  ),
+) 
+2014-05-12 08:01:41 --> crear el consumidor 
+2014-05-12 08:01:41 --> se creo el consumidor 624 
+2014-05-12 08:01:41 --> la informacion de la sede es array (
+  'S_ID' => '1',
+  'S_NOMBRE' => 'ANTIOQUIA',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional antioquia',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '3',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-05-12 08:01:41 --> se va a extraer informacion del area  
+2014-05-12 08:01:41 --> la informacion del area es array (
+) 
+2014-05-12 08:01:41 --> se va a crear el turno 
+2014-05-12 08:01:41 --> se creo el turno 6 del area  
+
+2014-05-12 08:16:39 --> get_areas 2 
+2014-05-12 08:16:39 --> buscando areas del cliente 
+2014-05-12 08:16:39 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 08:16:39 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 08:17:59 --> get_areas 2 
+2014-05-12 08:17:59 --> buscando areas del cliente 
+2014-05-12 08:17:59 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 08:17:59 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 08:28:58 --> get_areas 2 
+2014-05-12 08:28:58 --> buscando areas del cliente 
+2014-05-12 08:28:58 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 08:28:58 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 08:34:42 --> get_areas 2 
+2014-05-12 08:34:42 --> buscando areas del cliente 
+2014-05-12 08:34:42 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 08:34:42 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 08:35:55 --> get_areas 2 
+2014-05-12 08:35:55 --> buscando areas del cliente 
+2014-05-12 08:35:55 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 08:35:55 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 08:41:24 --> get_areas 2 
+2014-05-12 08:41:24 --> buscando areas del cliente 
+2014-05-12 08:41:24 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 08:41:24 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 08:42:44 --> get_areas 2 
+2014-05-12 08:42:44 --> buscando areas del cliente 
+2014-05-12 08:42:44 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 08:42:44 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 08:44:18 --> get_areas 1 
+2014-05-12 08:44:18 --> buscando areas del cliente 
+2014-05-12 08:44:18 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '1',
+    'nombre_area' => 'GERENCIAMIENTO_DEL_SERVICIO',
+  ),
+  1 => 
+  array (
+    'id_area' => '2',
+    'nombre_area' => 'ADMINISTRACION_DE_LA_SEGURIDAD_SOCIAL_Y_PARAFISCALES',
+  ),
+  2 => 
+  array (
+    'id_area' => '3',
+    'nombre_area' => 'SEGUIMIENTO_AL_SERVICIO',
+  ),
+  3 => 
+  array (
+    'id_area' => '4',
+    'nombre_area' => 'SELECCION_Y_VINCULACION',
+  ),
+  4 => 
+  array (
+    'id_area' => '5',
+    'nombre_area' => 'OTROS',
+  ),
+  5 => 
+  array (
+    'id_area' => '7',
+    'nombre_area' => 'VARIOS_REQUERIMIENTOS',
+  ),
+  6 => 
+  array (
+    'id_area' => '8',
+    'nombre_area' => 'COMPENSACION_SALARIAL',
+  ),
+) 
+2014-05-12 08:44:18 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '1',
+      'nombre_area' => 'GERENCIAMIENTO_DEL_SERVICIO',
+    ),
+    1 => 
+    array (
+      'id_area' => '2',
+      'nombre_area' => 'ADMINISTRACION_DE_LA_SEGURIDAD_SOCIAL_Y_PARAFISCALES',
+    ),
+    2 => 
+    array (
+      'id_area' => '3',
+      'nombre_area' => 'SEGUIMIENTO_AL_SERVICIO',
+    ),
+    3 => 
+    array (
+      'id_area' => '4',
+      'nombre_area' => 'SELECCION_Y_VINCULACION',
+    ),
+    4 => 
+    array (
+      'id_area' => '5',
+      'nombre_area' => 'OTROS',
+    ),
+    5 => 
+    array (
+      'id_area' => '7',
+      'nombre_area' => 'VARIOS_REQUERIMIENTOS',
+    ),
+    6 => 
+    array (
+      'id_area' => '8',
+      'nombre_area' => 'COMPENSACION_SALARIAL',
+    ),
+  ),
+) 
+
+2014-05-12 08:52:39 --> get_areas 1 
+2014-05-12 08:52:39 --> buscando areas del cliente 
+2014-05-12 08:52:39 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '1',
+    'nombre_area' => 'GERENCIAMIENTO_DEL_SERVICIO',
+  ),
+  1 => 
+  array (
+    'id_area' => '2',
+    'nombre_area' => 'ADMINISTRACION_DE_LA_SEGURIDAD_SOCIAL_Y_PARAFISCALES',
+  ),
+  2 => 
+  array (
+    'id_area' => '3',
+    'nombre_area' => 'SEGUIMIENTO_AL_SERVICIO',
+  ),
+  3 => 
+  array (
+    'id_area' => '4',
+    'nombre_area' => 'SELECCION_Y_VINCULACION',
+  ),
+  4 => 
+  array (
+    'id_area' => '5',
+    'nombre_area' => 'OTROS',
+  ),
+  5 => 
+  array (
+    'id_area' => '7',
+    'nombre_area' => 'VARIOS_REQUERIMIENTOS',
+  ),
+  6 => 
+  array (
+    'id_area' => '8',
+    'nombre_area' => 'COMPENSACION_SALARIAL',
+  ),
+) 
+2014-05-12 08:52:39 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '1',
+      'nombre_area' => 'GERENCIAMIENTO_DEL_SERVICIO',
+    ),
+    1 => 
+    array (
+      'id_area' => '2',
+      'nombre_area' => 'ADMINISTRACION_DE_LA_SEGURIDAD_SOCIAL_Y_PARAFISCALES',
+    ),
+    2 => 
+    array (
+      'id_area' => '3',
+      'nombre_area' => 'SEGUIMIENTO_AL_SERVICIO',
+    ),
+    3 => 
+    array (
+      'id_area' => '4',
+      'nombre_area' => 'SELECCION_Y_VINCULACION',
+    ),
+    4 => 
+    array (
+      'id_area' => '5',
+      'nombre_area' => 'OTROS',
+    ),
+    5 => 
+    array (
+      'id_area' => '7',
+      'nombre_area' => 'VARIOS_REQUERIMIENTOS',
+    ),
+    6 => 
+    array (
+      'id_area' => '8',
+      'nombre_area' => 'COMPENSACION_SALARIAL',
+    ),
+  ),
+) 
+
+2014-05-12 08:57:39 --> get_areas 1 
+2014-05-12 08:57:39 --> buscando areas del cliente 
+2014-05-12 08:57:39 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '1',
+    'nombre_area' => 'GERENCIAMIENTO_DEL_SERVICIO',
+  ),
+  1 => 
+  array (
+    'id_area' => '2',
+    'nombre_area' => 'ADMINISTRACION_DE_LA_SEGURIDAD_SOCIAL_Y_PARAFISCALES',
+  ),
+  2 => 
+  array (
+    'id_area' => '3',
+    'nombre_area' => 'SEGUIMIENTO_AL_SERVICIO',
+  ),
+  3 => 
+  array (
+    'id_area' => '4',
+    'nombre_area' => 'SELECCION_Y_VINCULACION',
+  ),
+  4 => 
+  array (
+    'id_area' => '5',
+    'nombre_area' => 'OTROS',
+  ),
+  5 => 
+  array (
+    'id_area' => '7',
+    'nombre_area' => 'VARIOS_REQUERIMIENTOS',
+  ),
+  6 => 
+  array (
+    'id_area' => '8',
+    'nombre_area' => 'COMPENSACION_SALARIAL',
+  ),
+) 
+2014-05-12 08:57:39 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '1',
+      'nombre_area' => 'GERENCIAMIENTO_DEL_SERVICIO',
+    ),
+    1 => 
+    array (
+      'id_area' => '2',
+      'nombre_area' => 'ADMINISTRACION_DE_LA_SEGURIDAD_SOCIAL_Y_PARAFISCALES',
+    ),
+    2 => 
+    array (
+      'id_area' => '3',
+      'nombre_area' => 'SEGUIMIENTO_AL_SERVICIO',
+    ),
+    3 => 
+    array (
+      'id_area' => '4',
+      'nombre_area' => 'SELECCION_Y_VINCULACION',
+    ),
+    4 => 
+    array (
+      'id_area' => '5',
+      'nombre_area' => 'OTROS',
+    ),
+    5 => 
+    array (
+      'id_area' => '7',
+      'nombre_area' => 'VARIOS_REQUERIMIENTOS',
+    ),
+    6 => 
+    array (
+      'id_area' => '8',
+      'nombre_area' => 'COMPENSACION_SALARIAL',
+    ),
+  ),
+) 
+
+2014-05-12 10:47:44 --> get_areas 2 
+2014-05-12 10:47:44 --> buscando areas del cliente 
+2014-05-12 10:47:44 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 10:47:44 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 10:49:55 --> get_areas 2 
+2014-05-12 10:49:55 --> buscando areas del cliente 
+2014-05-12 10:49:55 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 10:49:55 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 10:49:56 --> get_areas 2 
+2014-05-12 10:49:56 --> buscando areas del cliente 
+2014-05-12 10:49:56 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 10:49:56 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 10:56:13 --> get_areas 2 
+2014-05-12 10:56:13 --> buscando areas del cliente 
+2014-05-12 10:56:13 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 10:56:13 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 10:58:38 --> get_areas 2 
+2014-05-12 10:58:38 --> buscando areas del cliente 
+2014-05-12 10:58:38 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 10:58:38 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 11:06:05 --> get_areas 2 
+2014-05-12 11:06:05 --> buscando areas del cliente 
+2014-05-12 11:06:05 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 11:06:05 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 11:07:45 --> get_areas 2 
+2014-05-12 11:07:45 --> buscando areas del cliente 
+2014-05-12 11:07:45 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 11:07:45 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 11:10:04 --> get_areas 2 
+2014-05-12 11:10:04 --> buscando areas del cliente 
+2014-05-12 11:10:04 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 11:10:04 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 11:11:44 --> get_areas 2 
+2014-05-12 11:11:44 --> buscando areas del cliente 
+2014-05-12 11:11:44 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 11:11:44 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 11:14:10 --> get_areas 2 
+2014-05-12 11:14:10 --> buscando areas del cliente 
+2014-05-12 11:14:10 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 11:14:10 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 11:18:20 --> get_areas 2 
+2014-05-12 11:18:20 --> buscando areas del cliente 
+2014-05-12 11:18:20 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 11:18:20 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 11:34:17 --> get_areas 2 
+2014-05-12 11:34:17 --> buscando areas del cliente 
+2014-05-12 11:34:17 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 11:34:17 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 11:35:53 --> get_areas 2 
+2014-05-12 11:35:53 --> buscando areas del cliente 
+2014-05-12 11:35:53 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 11:35:53 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 11:37:50 --> get_areas 2 
+2014-05-12 11:37:50 --> buscando areas del cliente 
+2014-05-12 11:37:50 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 11:37:50 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 11:39:53 --> get_areas 2 
+2014-05-12 11:39:53 --> buscando areas del cliente 
+2014-05-12 11:39:53 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 11:39:53 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 11:42:37 --> get_areas 2 
+2014-05-12 11:42:37 --> buscando areas del cliente 
+2014-05-12 11:42:37 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 11:42:37 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 11:45:15 --> get_areas 2 
+2014-05-12 11:45:15 --> buscando areas del cliente 
+2014-05-12 11:45:15 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 11:45:15 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 11:47:06 --> get_areas 2 
+2014-05-12 11:47:06 --> buscando areas del cliente 
+2014-05-12 11:47:06 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 11:47:06 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 11:49:31 --> get_areas 2 
+2014-05-12 11:49:31 --> buscando areas del cliente 
+2014-05-12 11:49:31 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 11:49:31 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 11:51:26 --> get_areas 2 
+2014-05-12 11:51:26 --> buscando areas del cliente 
+2014-05-12 11:51:26 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 11:51:26 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 11:52:42 --> get_areas 2 
+2014-05-12 11:52:42 --> buscando areas del cliente 
+2014-05-12 11:52:42 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 11:52:42 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 11:54:30 --> get_areas 2 
+2014-05-12 11:54:30 --> buscando areas del cliente 
+2014-05-12 11:54:30 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 11:54:30 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 12:04:32 --> get_areas 2 
+2014-05-12 12:04:32 --> buscando areas del cliente 
+2014-05-12 12:04:32 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 12:04:32 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 12:10:03 --> get_areas 2 
+2014-05-12 12:10:03 --> buscando areas del cliente 
+2014-05-12 12:10:03 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 12:10:03 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 12:12:32 --> get_areas 2 
+2014-05-12 12:12:32 --> buscando areas del cliente 
+2014-05-12 12:12:32 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 12:12:32 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 12:14:52 --> get_areas 2 
+2014-05-12 12:14:52 --> buscando areas del cliente 
+2014-05-12 12:14:52 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 12:14:52 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 12:17:30 --> get_areas 2 
+2014-05-12 12:17:30 --> buscando areas del cliente 
+2014-05-12 12:17:30 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 12:17:30 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 12:20:29 --> get_areas 2 
+2014-05-12 12:20:29 --> buscando areas del cliente 
+2014-05-12 12:20:29 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 12:20:29 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 14:41:11 --> get_areas 2 
+2014-05-12 14:41:11 --> buscando areas del cliente 
+2014-05-12 14:41:11 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 14:41:11 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 14:51:01 --> get_areas 2 
+2014-05-12 14:51:01 --> buscando areas del cliente 
+2014-05-12 14:51:01 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 14:51:01 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 14:57:25 --> get_areas 2 
+2014-05-12 14:57:25 --> buscando areas del cliente 
+2014-05-12 14:57:25 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 14:57:25 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 14:59:47 --> get_areas 2 
+2014-05-12 14:59:47 --> buscando areas del cliente 
+2014-05-12 14:59:47 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 14:59:47 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 15:03:45 --> get_areas 2 
+2014-05-12 15:03:45 --> buscando areas del cliente 
+2014-05-12 15:03:45 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 15:03:45 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 15:09:29 --> get_areas 2 
+2014-05-12 15:09:29 --> buscando areas del cliente 
+2014-05-12 15:09:29 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 15:09:29 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 15:33:22 --> get_areas 2 
+2014-05-12 15:33:22 --> buscando areas del cliente 
+2014-05-12 15:33:22 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 15:33:22 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 15:47:17 --> get_areas 2 
+2014-05-12 15:47:17 --> buscando areas del cliente 
+2014-05-12 15:47:17 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 15:47:17 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 15:48:57 --> get_areas 2 
+2014-05-12 15:48:57 --> buscando areas del cliente 
+2014-05-12 15:48:57 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 15:48:57 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+2014-05-12 15:49:00 --> crear el consumidor 
+2014-05-12 15:49:00 --> se creo el consumidor 647 
+2014-05-12 15:49:00 --> la informacion de la sede es array (
+  'S_ID' => '1',
+  'S_NOMBRE' => 'ANTIOQUIA',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional antioquia',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '3',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-05-12 15:49:00 --> se va a extraer informacion del area  
+2014-05-12 15:49:00 --> la informacion del area es array (
+) 
+2014-05-12 15:49:00 --> se va a crear el turno 
+2014-05-12 15:49:00 --> se creo el turno 7 del area  
+
+2014-05-12 15:49:04 --> get_areas 2 
+2014-05-12 15:49:04 --> buscando areas del cliente 
+2014-05-12 15:49:04 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 15:49:04 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+2014-05-12 15:49:10 --> crear el consumidor 
+2014-05-12 15:49:10 --> se creo el consumidor 648 
+2014-05-12 15:49:10 --> la informacion de la sede es array (
+  'S_ID' => '1',
+  'S_NOMBRE' => 'ANTIOQUIA',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional antioquia',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '3',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-05-12 15:49:10 --> se va a extraer informacion del area  
+2014-05-12 15:49:10 --> la informacion del area es array (
+) 
+2014-05-12 15:49:10 --> se va a crear el turno 
+2014-05-12 15:49:10 --> se creo el turno 8 del area  
+
+2014-05-12 15:49:18 --> get_areas 2 
+2014-05-12 15:49:18 --> buscando areas del cliente 
+2014-05-12 15:49:18 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 15:49:18 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+2014-05-12 15:49:26 --> crear el consumidor 
+2014-05-12 15:49:26 --> se creo el consumidor 649 
+2014-05-12 15:49:26 --> la informacion de la sede es array (
+  'S_ID' => '1',
+  'S_NOMBRE' => 'ANTIOQUIA',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional antioquia',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '3',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-05-12 15:49:26 --> se va a extraer informacion del area  
+2014-05-12 15:49:26 --> la informacion del area es array (
+) 
+2014-05-12 15:49:26 --> se va a crear el turno 
+2014-05-12 15:49:26 --> se creo el turno 9 del area  
+
+2014-05-12 16:15:37 --> get_areas 2 
+2014-05-12 16:15:37 --> buscando areas del cliente 
+2014-05-12 16:15:37 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 16:15:37 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+2014-05-12 16:15:41 --> crear el consumidor 
+2014-05-12 16:15:41 --> se creo el consumidor 651 
+2014-05-12 16:15:41 --> la informacion de la sede es array (
+  'S_ID' => '1',
+  'S_NOMBRE' => 'ANTIOQUIA',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional antioquia',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '3',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-05-12 16:15:41 --> se va a extraer informacion del area  
+2014-05-12 16:15:41 --> la informacion del area es array (
+) 
+2014-05-12 16:15:41 --> se va a crear el turno 
+2014-05-12 16:15:41 --> se creo el turno 10 del area  
+
+2014-05-12 16:15:44 --> get_areas 2 
+2014-05-12 16:15:44 --> buscando areas del cliente 
+2014-05-12 16:15:44 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 16:15:44 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+2014-05-12 16:15:46 --> crear el consumidor 
+2014-05-12 16:15:46 --> se creo el consumidor 652 
+2014-05-12 16:15:46 --> la informacion de la sede es array (
+  'S_ID' => '1',
+  'S_NOMBRE' => 'ANTIOQUIA',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional antioquia',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '3',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-05-12 16:15:46 --> se va a extraer informacion del area  
+2014-05-12 16:15:46 --> la informacion del area es array (
+) 
+2014-05-12 16:15:46 --> se va a crear el turno 
+2014-05-12 16:15:46 --> se creo el turno 11 del area  
+
+2014-05-12 17:04:01 --> get_areas 2 
+2014-05-12 17:04:01 --> buscando areas del cliente 
+2014-05-12 17:04:01 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 17:04:01 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+2014-05-12 17:04:17 --> crear el consumidor 
+2014-05-12 17:04:17 --> se creo el consumidor 653 
+2014-05-12 17:04:17 --> la informacion de la sede es array (
+  'S_ID' => '1',
+  'S_NOMBRE' => 'ANTIOQUIA',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional antioquia',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '3',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-05-12 17:04:17 --> se va a extraer informacion del area  
+2014-05-12 17:04:17 --> la informacion del area es array (
+) 
+2014-05-12 17:04:17 --> se va a crear el turno 
+2014-05-12 17:04:17 --> se creo el turno 12 del area  
+
+2014-05-12 18:22:42 --> get_areas 2 
+2014-05-12 18:22:42 --> buscando areas del cliente 
+2014-05-12 18:22:42 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 18:22:42 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+2014-05-12 18:22:47 --> crear el consumidor 
+2014-05-12 18:22:47 --> se creo el consumidor 654 
+2014-05-12 18:22:47 --> la informacion de la sede es array (
+  'S_ID' => '1',
+  'S_NOMBRE' => 'ANTIOQUIA',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional antioquia',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '3',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-05-12 18:22:47 --> se va a extraer informacion del area  
+2014-05-12 18:22:47 --> la informacion del area es array (
+) 
+2014-05-12 18:22:47 --> se va a crear el turno 
+2014-05-12 18:22:47 --> se creo el turno 13 del area  
+
+2014-05-12 18:23:22 --> get_areas 2 
+2014-05-12 18:23:22 --> buscando areas del cliente 
+2014-05-12 18:23:22 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 18:23:22 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+2014-05-12 18:23:33 --> crear el consumidor 
+2014-05-12 18:23:33 --> se creo el consumidor 655 
+2014-05-12 18:23:33 --> la informacion de la sede es array (
+  'S_ID' => '1',
+  'S_NOMBRE' => 'ANTIOQUIA',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional antioquia',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '3',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-05-12 18:23:33 --> se va a extraer informacion del area  
+2014-05-12 18:23:33 --> la informacion del area es array (
+) 
+2014-05-12 18:23:33 --> se va a crear el turno 
+2014-05-12 18:23:33 --> se creo el turno 14 del area  
+
+2014-05-12 22:31:19 --> get_areas 2 
+2014-05-12 22:31:19 --> buscando areas del cliente 
+2014-05-12 22:31:19 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 22:31:19 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 22:34:28 --> get_areas 2 
+2014-05-12 22:34:28 --> buscando areas del cliente 
+2014-05-12 22:34:28 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 22:34:28 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+2014-05-12 22:34:43 --> crear el consumidor 
+2014-05-12 22:34:44 --> se creo el consumidor 656 
+2014-05-12 22:34:44 --> la informacion de la sede es array (
+  'S_ID' => '1',
+  'S_NOMBRE' => 'ANTIOQUIA',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional antioquia',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '3',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-05-12 22:34:44 --> se va a extraer informacion del area  
+2014-05-12 22:34:44 --> la informacion del area es array (
+) 
+2014-05-12 22:34:44 --> se va a crear el turno 
+2014-05-12 22:34:44 --> se creo el turno 15 del area  
+
+2014-05-12 22:37:45 --> get_areas 2 
+2014-05-12 22:37:45 --> buscando areas del cliente 
+2014-05-12 22:37:45 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 22:37:45 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 22:43:23 --> get_areas 2 
+2014-05-12 22:43:23 --> buscando areas del cliente 
+2014-05-12 22:43:23 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 22:43:23 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 22:44:48 --> get_areas 2 
+2014-05-12 22:44:48 --> buscando areas del cliente 
+2014-05-12 22:44:48 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 22:44:48 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 22:46:50 --> get_areas 2 
+2014-05-12 22:46:50 --> buscando areas del cliente 
+2014-05-12 22:46:50 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 22:46:50 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+
+2014-05-12 22:50:39 --> get_areas 2 
+2014-05-12 22:50:39 --> buscando areas del cliente 
+2014-05-12 22:50:39 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '9',
+    'nombre_area' => 'Documentos',
+  ),
+) 
+2014-05-12 22:50:39 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '9',
+      'nombre_area' => 'Documentos',
+    ),
+  ),
+) 
+2014-05-12 22:50:47 --> crear el consumidor 
+2014-05-12 22:50:47 --> se creo el consumidor 657 
+2014-05-12 22:50:47 --> la informacion de la sede es array (
+  'S_ID' => '1',
+  'S_NOMBRE' => 'ANTIOQUIA',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional antioquia',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '3',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-05-12 22:50:47 --> se va a extraer informacion del area  
+2014-05-12 22:50:47 --> la informacion del area es array (
+  'AR_ID' => '9',
+  'AR_NOMBRE' => 'Documentos',
+  'AR_DESCRIPCION' => 'Area de documentos',
+  'AR_C_ID' => '2',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'DC',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '1',
+) 
+2014-05-12 22:50:47 --> se va a crear el turno 
+2014-05-12 22:50:47 --> se creo el turno 16 del area DC 

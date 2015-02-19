@@ -1,0 +1,19 @@
+.sin-hover-header:hover{
+    background-color: #999999 !important;
+}
+.con-hover-header:hover{
+    background-color: #555555 !important;
+}
+.sin-hover-footer:hover{
+    background-color: #134779 !important;
+}
+.con-hover-footer::hover{
+    background-color: #00356a !important;
+}
+.fg-button{
+    cursor: pointer;
+    margin-left: 10px;
+}
+.table th{
+    cursor: pointer;
+}

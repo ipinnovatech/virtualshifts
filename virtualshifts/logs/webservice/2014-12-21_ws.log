@@ -1,0 +1,27 @@
+
+2014-12-21 19:35:36 --> get_areas 1 
+2014-12-21 19:35:36 --> buscando areas del cliente 
+2014-12-21 19:35:52 --> crear el consumidor 
+2014-12-21 19:35:52 --> se creo el consumidor 28000 
+2014-12-21 19:35:52 --> la informacion de la sede es array (
+  'S_ID' => '4',
+  'S_NOMBRE' => 'OCCIDENTE',
+  'S_DESCRIPCION' => 'Sedle para atender los casos de la regional occidente',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '0',
+) 
+2014-12-21 19:35:52 --> se va a extraer informacion del area  
+2014-12-21 19:35:52 --> la informacion del area es array (
+  'AR_ID' => '1',
+  'AR_NOMBRE' => 'GERENCIA_DEL_SERVICIO',
+  'AR_DESCRIPCION' => 'Cartas punto de venta Cartas de renuncia',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'GS',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-12-21 19:35:52 --> se va a crear el turno 
+2014-12-21 19:35:52 --> se creo el turno 1 del area GS 

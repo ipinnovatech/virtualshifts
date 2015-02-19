@@ -1,0 +1,66 @@
+
+11:21:45datos de entrada login son: array (
+  'metodo' => 'login',
+  'username' => 'alvaro_naranjo',
+  'password' => '123456',
+  'gcm_id' => '',
+)
+11:21:45no hubo errores en el envio de datos
+11:21:45el usuario existe
+11:21:45el password coincide
+11:21:45la sede 4 no muestra video
+11:21:45tiene imagenes
+11:21:45 datos de salida login son: array (
+  'status' => 'success',
+  'error_description' => '',
+  'datos' => 
+  array (
+    'nombres' => 'ALVARO NARANJO',
+    'id' => '10',
+    'id_sede' => '4',
+    'nombre_sede' => '4',
+    'muestra_video' => '0',
+    'videos' => 
+    array (
+    ),
+    'imagenes' => 
+    array (
+      0 => 
+      array (
+        'IMAS_IMA_ID' => '1',
+        'IMAS_S_ID' => '4',
+        'IMA_ID' => '1',
+        'IMA_DESCRIPCION' => 'Imagen extras prueba',
+        'IMA_CLI_ID' => '1',
+        'IMA_URL' => 'http://184.168.29.222/virtualshifts/images/imagenes/DSC_0036c.jpg',
+        'IMA_ACTIVO' => '1',
+        'IMA_FECHACREACION' => '2014-04-16 09:56:34',
+        'IMA_FECHASYS' => '2014-04-28 14:30:36',
+      ),
+      1 => 
+      array (
+        'IMAS_IMA_ID' => '18',
+        'IMAS_S_ID' => '4',
+        'IMA_ID' => '18',
+        'IMA_DESCRIPCION' => 'Img',
+        'IMA_CLI_ID' => '1',
+        'IMA_URL' => 'http://184.168.29.222/virtualshifts/images/imagenes/Imagen 2 P16.png',
+        'IMA_ACTIVO' => '1',
+        'IMA_FECHACREACION' => '2015-02-16 08:48:48',
+        'IMA_FECHASYS' => '2015-02-16 08:48:48',
+      ),
+      2 => 
+      array (
+        'IMAS_IMA_ID' => '20',
+        'IMAS_S_ID' => '4',
+        'IMA_ID' => '20',
+        'IMA_DESCRIPCION' => 'Img P16 ',
+        'IMA_CLI_ID' => '1',
+        'IMA_URL' => 'http://184.168.29.222/virtualshifts/images/imagenes/Imagen P16.png',
+        'IMA_ACTIVO' => '1',
+        'IMA_FECHACREACION' => '2015-02-16 08:56:38',
+        'IMA_FECHASYS' => '2015-02-16 08:56:38',
+      ),
+    ),
+  ),
+)

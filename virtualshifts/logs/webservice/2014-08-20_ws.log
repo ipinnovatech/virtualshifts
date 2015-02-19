@@ -1,0 +1,936 @@
+
+2014-08-20 07:48:16 --> get_areas 1 
+2014-08-20 07:48:16 --> buscando areas del cliente 
+
+2014-08-20 07:49:41 --> get_areas 1 
+2014-08-20 07:49:41 --> buscando areas del cliente 
+2014-08-20 07:50:05 --> crear el consumidor 
+2014-08-20 07:50:05 --> se creo el consumidor 13899 
+2014-08-20 07:50:05 --> la informacion de la sede es array (
+  'S_ID' => '4',
+  'S_NOMBRE' => 'OCCIDENTE',
+  'S_DESCRIPCION' => 'Sedle para atender los casos de la regional occidente',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 07:50:05 --> se va a extraer informacion del area  
+2014-08-20 07:50:05 --> la informacion del area es array (
+  'AR_ID' => '7',
+  'AR_NOMBRE' => 'VARIOS_REQUERIMIENTOS',
+  'AR_DESCRIPCION' => 'Solicitudes varias',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'VR',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 07:50:05 --> se va a crear el turno 
+2014-08-20 07:50:05 --> se creo el turno 1 del area VR 
+
+2014-08-20 07:51:14 --> get_areas 1 
+2014-08-20 07:51:14 --> buscando areas del cliente 
+
+2014-08-20 08:50:46 --> get_areas 1 
+2014-08-20 08:50:46 --> buscando areas del cliente 
+
+2014-08-20 09:22:39 --> get_areas 1 
+2014-08-20 09:22:39 --> buscando areas del cliente 
+2014-08-20 09:22:52 --> crear el consumidor 
+2014-08-20 09:22:52 --> se creo el consumidor 13930 
+2014-08-20 09:22:52 --> la informacion de la sede es array (
+  'S_ID' => '4',
+  'S_NOMBRE' => 'OCCIDENTE',
+  'S_DESCRIPCION' => 'Sedle para atender los casos de la regional occidente',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 09:22:52 --> se va a extraer informacion del area  
+2014-08-20 09:22:52 --> la informacion del area es array (
+  'AR_ID' => '2',
+  'AR_NOMBRE' => 'APORTES',
+  'AR_DESCRIPCION' => 'Pensiones Incapacidades Cesantias Cartas FNA',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'A',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 09:22:52 --> se va a crear el turno 
+2014-08-20 09:22:52 --> se creo el turno 1 del area A 
+
+2014-08-20 09:23:36 --> get_areas 1 
+2014-08-20 09:23:36 --> buscando areas del cliente 
+2014-08-20 09:23:47 --> crear el consumidor 
+2014-08-20 09:23:47 --> se creo el consumidor 13931 
+2014-08-20 09:23:47 --> la informacion de la sede es array (
+  'S_ID' => '4',
+  'S_NOMBRE' => 'OCCIDENTE',
+  'S_DESCRIPCION' => 'Sedle para atender los casos de la regional occidente',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 09:23:47 --> se va a extraer informacion del area  
+2014-08-20 09:23:47 --> la informacion del area es array (
+  'AR_ID' => '5',
+  'AR_NOMBRE' => 'OTROS',
+  'AR_DESCRIPCION' => 'Otros',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'O',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 09:23:47 --> se va a crear el turno 
+2014-08-20 09:23:47 --> se creo el turno 1 del area O 
+
+2014-08-20 09:25:52 --> get_areas 1 
+2014-08-20 09:25:52 --> buscando areas del cliente 
+2014-08-20 09:26:17 --> crear el consumidor 
+2014-08-20 09:26:17 --> se creo el consumidor 13933 
+2014-08-20 09:26:17 --> la informacion de la sede es array (
+  'S_ID' => '4',
+  'S_NOMBRE' => 'OCCIDENTE',
+  'S_DESCRIPCION' => 'Sedle para atender los casos de la regional occidente',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 09:26:17 --> se va a extraer informacion del area  
+2014-08-20 09:26:17 --> la informacion del area es array (
+  'AR_ID' => '2',
+  'AR_NOMBRE' => 'APORTES',
+  'AR_DESCRIPCION' => 'Pensiones Incapacidades Cesantias Cartas FNA',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'A',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 09:26:17 --> se va a crear el turno 
+2014-08-20 09:26:17 --> se creo el turno 2 del area A 
+
+2014-08-20 09:26:56 --> get_areas 1 
+2014-08-20 09:26:56 --> buscando areas del cliente 
+2014-08-20 09:26:59 --> crear el consumidor 
+2014-08-20 09:26:59 --> se creo el consumidor 13934 
+2014-08-20 09:26:59 --> la informacion de la sede es array (
+  'S_ID' => '4',
+  'S_NOMBRE' => 'OCCIDENTE',
+  'S_DESCRIPCION' => 'Sedle para atender los casos de la regional occidente',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 09:26:59 --> se va a extraer informacion del area  
+2014-08-20 09:26:59 --> la informacion del area es array (
+  'AR_ID' => '2',
+  'AR_NOMBRE' => 'APORTES',
+  'AR_DESCRIPCION' => 'Pensiones Incapacidades Cesantias Cartas FNA',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'A',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 09:26:59 --> se va a crear el turno 
+2014-08-20 09:26:59 --> se creo el turno 3 del area A 
+
+2014-08-20 09:27:59 --> get_areas 1 
+2014-08-20 09:27:59 --> buscando areas del cliente 
+2014-08-20 09:28:19 --> crear el consumidor 
+2014-08-20 09:28:19 --> se creo el consumidor 13935 
+2014-08-20 09:28:19 --> la informacion de la sede es array (
+  'S_ID' => '4',
+  'S_NOMBRE' => 'OCCIDENTE',
+  'S_DESCRIPCION' => 'Sedle para atender los casos de la regional occidente',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 09:28:19 --> se va a extraer informacion del area  
+2014-08-20 09:28:19 --> la informacion del area es array (
+  'AR_ID' => '5',
+  'AR_NOMBRE' => 'OTROS',
+  'AR_DESCRIPCION' => 'Otros',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'O',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 09:28:19 --> se va a crear el turno 
+2014-08-20 09:28:19 --> se creo el turno 2 del area O 
+
+2014-08-20 09:32:53 --> get_areas 1 
+2014-08-20 09:32:53 --> buscando areas del cliente 
+
+2014-08-20 09:46:58 --> get_areas 1 
+2014-08-20 09:46:58 --> buscando areas del cliente 
+
+2014-08-20 09:54:35 --> get_areas 1 
+2014-08-20 09:54:35 --> buscando areas del cliente 
+2014-08-20 09:54:48 --> crear el consumidor 
+2014-08-20 09:54:54 --> se creo el consumidor 13941 
+2014-08-20 09:54:54 --> la informacion de la sede es array (
+  'S_ID' => '4',
+  'S_NOMBRE' => 'OCCIDENTE',
+  'S_DESCRIPCION' => 'Sedle para atender los casos de la regional occidente',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 09:54:54 --> se va a extraer informacion del area  
+2014-08-20 09:54:54 --> la informacion del area es array (
+  'AR_ID' => '1',
+  'AR_NOMBRE' => 'GERENCIA_DEL_SERVICIO',
+  'AR_DESCRIPCION' => 'Cartas de ingreso al punto de venta',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'GS',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 09:54:54 --> se va a crear el turno 
+2014-08-20 09:54:54 --> se creo el turno 1 del area GS 
+
+2014-08-20 09:58:52 --> get_areas 1 
+2014-08-20 09:58:52 --> buscando areas del cliente 
+
+2014-08-20 09:59:47 --> get_areas 1 
+2014-08-20 09:59:47 --> buscando areas del cliente 
+2014-08-20 09:59:50 --> crear el consumidor 
+2014-08-20 09:59:50 --> se creo el consumidor 13942 
+2014-08-20 09:59:50 --> la informacion de la sede es array (
+  'S_ID' => '4',
+  'S_NOMBRE' => 'OCCIDENTE',
+  'S_DESCRIPCION' => 'Sedle para atender los casos de la regional occidente',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 09:59:50 --> se va a extraer informacion del area  
+2014-08-20 09:59:50 --> la informacion del area es array (
+  'AR_ID' => '8',
+  'AR_NOMBRE' => 'COMPENSACION_SALARIAL',
+  'AR_DESCRIPCION' => 'Informacion pago nomina y liquidaciones',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'CS',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 09:59:50 --> se va a crear el turno 
+2014-08-20 09:59:50 --> se creo el turno 1 del area CS 
+
+2014-08-20 10:04:49 --> get_areas 1 
+2014-08-20 10:04:49 --> buscando areas del cliente 
+2014-08-20 10:05:05 --> crear el consumidor 
+2014-08-20 10:05:05 --> se creo el consumidor 13943 
+2014-08-20 10:05:05 --> la informacion de la sede es array (
+  'S_ID' => '4',
+  'S_NOMBRE' => 'OCCIDENTE',
+  'S_DESCRIPCION' => 'Sedle para atender los casos de la regional occidente',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 10:05:05 --> se va a extraer informacion del area  
+2014-08-20 10:05:05 --> la informacion del area es array (
+  'AR_ID' => '2',
+  'AR_NOMBRE' => 'APORTES',
+  'AR_DESCRIPCION' => 'Pensiones Incapacidades Cesantias Cartas FNA',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'A',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 10:05:05 --> se va a crear el turno 
+2014-08-20 10:05:05 --> se creo el turno 4 del area A 
+
+2014-08-20 10:18:11 --> get_areas 1 
+2014-08-20 10:18:11 --> buscando areas del cliente 
+2014-08-20 10:18:19 --> crear el consumidor 
+2014-08-20 10:18:19 --> se creo el consumidor 13945 
+2014-08-20 10:18:19 --> la informacion de la sede es array (
+  'S_ID' => '5',
+  'S_NOMBRE' => 'ORIENTE',
+  'S_DESCRIPCION' => 'Sede para gestionar los casos de la regional Oriente',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 10:18:19 --> se va a extraer informacion del area  
+2014-08-20 10:18:19 --> la informacion del area es array (
+  'AR_ID' => '1',
+  'AR_NOMBRE' => 'GERENCIA_DEL_SERVICIO',
+  'AR_DESCRIPCION' => 'Cartas de ingreso al punto de venta',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'GS',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 10:18:19 --> se va a crear el turno 
+2014-08-20 10:18:19 --> se creo el turno 5 del area GS 
+
+2014-08-20 10:50:18 --> get_areas 1 
+2014-08-20 10:50:18 --> buscando areas del cliente 
+
+2014-08-20 10:53:20 --> get_areas 1 
+2014-08-20 10:53:20 --> buscando areas del cliente 
+2014-08-20 10:53:37 --> crear el consumidor 
+2014-08-20 10:53:37 --> se creo el consumidor 13953 
+2014-08-20 10:53:37 --> la informacion de la sede es array (
+  'S_ID' => '4',
+  'S_NOMBRE' => 'OCCIDENTE',
+  'S_DESCRIPCION' => 'Sedle para atender los casos de la regional occidente',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 10:53:37 --> se va a extraer informacion del area  
+2014-08-20 10:53:37 --> la informacion del area es array (
+  'AR_ID' => '1',
+  'AR_NOMBRE' => 'GERENCIA_DEL_SERVICIO',
+  'AR_DESCRIPCION' => 'Cartas de ingreso al punto de venta',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'GS',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 10:53:37 --> se va a crear el turno 
+2014-08-20 10:53:37 --> se creo el turno 2 del area GS 
+
+2014-08-20 11:31:11 --> get_areas 1 
+2014-08-20 11:31:11 --> buscando areas del cliente 
+
+2014-08-20 11:32:13 --> get_areas 1 
+2014-08-20 11:32:13 --> buscando areas del cliente 
+2014-08-20 11:32:17 --> crear el consumidor 
+2014-08-20 11:32:17 --> se creo el consumidor 13966 
+2014-08-20 11:32:17 --> la informacion de la sede es array (
+  'S_ID' => '4',
+  'S_NOMBRE' => 'OCCIDENTE',
+  'S_DESCRIPCION' => 'Sedle para atender los casos de la regional occidente',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 11:32:17 --> se va a extraer informacion del area  
+2014-08-20 11:32:17 --> la informacion del area es array (
+  'AR_ID' => '5',
+  'AR_NOMBRE' => 'OTROS',
+  'AR_DESCRIPCION' => 'Otros',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'O',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 11:32:17 --> se va a crear el turno 
+2014-08-20 11:32:17 --> se creo el turno 3 del area O 
+
+2014-08-20 11:32:56 --> get_areas 1 
+2014-08-20 11:32:56 --> buscando areas del cliente 
+2014-08-20 11:33:05 --> crear el consumidor 
+2014-08-20 11:33:05 --> se creo el consumidor 13967 
+2014-08-20 11:33:05 --> la informacion de la sede es array (
+  'S_ID' => '4',
+  'S_NOMBRE' => 'OCCIDENTE',
+  'S_DESCRIPCION' => 'Sedle para atender los casos de la regional occidente',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 11:33:05 --> se va a extraer informacion del area  
+2014-08-20 11:33:05 --> la informacion del area es array (
+  'AR_ID' => '8',
+  'AR_NOMBRE' => 'COMPENSACION_SALARIAL',
+  'AR_DESCRIPCION' => 'Informacion pago nomina y liquidaciones',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'CS',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 11:33:05 --> se va a crear el turno 
+2014-08-20 11:33:05 --> se creo el turno 2 del area CS 
+
+2014-08-20 11:34:39 --> get_areas 1 
+2014-08-20 11:34:39 --> buscando areas del cliente 
+2014-08-20 11:34:46 --> crear el consumidor 
+2014-08-20 11:34:51 --> se creo el consumidor 13968 
+2014-08-20 11:34:51 --> la informacion de la sede es array (
+  'S_ID' => '4',
+  'S_NOMBRE' => 'OCCIDENTE',
+  'S_DESCRIPCION' => 'Sedle para atender los casos de la regional occidente',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 11:34:51 --> se va a extraer informacion del area  
+2014-08-20 11:34:51 --> la informacion del area es array (
+  'AR_ID' => '5',
+  'AR_NOMBRE' => 'OTROS',
+  'AR_DESCRIPCION' => 'Otros',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'O',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 11:34:51 --> se va a crear el turno 
+2014-08-20 11:34:51 --> se creo el turno 4 del area O 
+
+2014-08-20 11:39:55 --> get_areas 1 
+2014-08-20 11:39:55 --> buscando areas del cliente 
+2014-08-20 11:39:58 --> crear el consumidor 
+2014-08-20 11:39:58 --> se creo el consumidor 13970 
+2014-08-20 11:39:58 --> la informacion de la sede es array (
+  'S_ID' => '4',
+  'S_NOMBRE' => 'OCCIDENTE',
+  'S_DESCRIPCION' => 'Sedle para atender los casos de la regional occidente',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 11:39:58 --> se va a extraer informacion del area  
+2014-08-20 11:39:58 --> la informacion del area es array (
+  'AR_ID' => '1',
+  'AR_NOMBRE' => 'GERENCIA_DEL_SERVICIO',
+  'AR_DESCRIPCION' => 'Cartas de ingreso al punto de venta',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'GS',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 11:39:58 --> se va a crear el turno 
+2014-08-20 11:39:58 --> se creo el turno 3 del area GS 
+
+2014-08-20 11:42:29 --> get_areas 1 
+2014-08-20 11:42:29 --> buscando areas del cliente 
+2014-08-20 11:42:51 --> crear el consumidor 
+2014-08-20 11:42:51 --> se creo el consumidor 13972 
+2014-08-20 11:42:51 --> la informacion de la sede es array (
+  'S_ID' => '4',
+  'S_NOMBRE' => 'OCCIDENTE',
+  'S_DESCRIPCION' => 'Sedle para atender los casos de la regional occidente',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 11:42:51 --> se va a extraer informacion del area  
+2014-08-20 11:42:51 --> la informacion del area es array (
+  'AR_ID' => '5',
+  'AR_NOMBRE' => 'OTROS',
+  'AR_DESCRIPCION' => 'Otros',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'O',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 11:42:51 --> se va a crear el turno 
+2014-08-20 11:42:51 --> se creo el turno 5 del area O 
+
+2014-08-20 11:53:23 --> get_areas 1 
+2014-08-20 11:53:23 --> buscando areas del cliente 
+2014-08-20 11:53:35 --> crear el consumidor 
+2014-08-20 11:53:35 --> se creo el consumidor 13974 
+2014-08-20 11:53:35 --> la informacion de la sede es array (
+  'S_ID' => '4',
+  'S_NOMBRE' => 'OCCIDENTE',
+  'S_DESCRIPCION' => 'Sedle para atender los casos de la regional occidente',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 11:53:35 --> se va a extraer informacion del area  
+2014-08-20 11:53:35 --> la informacion del area es array (
+  'AR_ID' => '5',
+  'AR_NOMBRE' => 'OTROS',
+  'AR_DESCRIPCION' => 'Otros',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'O',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 11:53:35 --> se va a crear el turno 
+2014-08-20 11:53:35 --> se creo el turno 6 del area O 
+
+2014-08-20 12:12:10 --> get_areas 1 
+2014-08-20 12:12:10 --> buscando areas del cliente 
+2014-08-20 12:12:23 --> crear el consumidor 
+2014-08-20 12:12:23 --> se creo el consumidor 13977 
+2014-08-20 12:12:23 --> la informacion de la sede es array (
+  'S_ID' => '2',
+  'S_NOMBRE' => 'CENTRO',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional centro',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 12:12:23 --> se va a extraer informacion del area  
+2014-08-20 12:12:23 --> la informacion del area es array (
+  'AR_ID' => '5',
+  'AR_NOMBRE' => 'OTROS',
+  'AR_DESCRIPCION' => 'Otros',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'O',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 12:12:23 --> se va a crear el turno 
+2014-08-20 12:12:23 --> se creo el turno 1 del area O 
+
+2014-08-20 12:17:53 --> get_areas 1 
+2014-08-20 12:17:53 --> buscando areas del cliente 
+2014-08-20 12:18:01 --> crear el consumidor 
+2014-08-20 12:18:01 --> se creo el consumidor 13979 
+2014-08-20 12:18:01 --> la informacion de la sede es array (
+  'S_ID' => '2',
+  'S_NOMBRE' => 'CENTRO',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional centro',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 12:18:01 --> se va a extraer informacion del area  
+2014-08-20 12:18:02 --> la informacion del area es array (
+  'AR_ID' => '8',
+  'AR_NOMBRE' => 'COMPENSACION_SALARIAL',
+  'AR_DESCRIPCION' => 'Informacion pago nomina y liquidaciones',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'CS',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 12:18:02 --> se va a crear el turno 
+2014-08-20 12:18:02 --> se creo el turno 1 del area CS 
+
+2014-08-20 13:28:22 --> get_areas 1 
+2014-08-20 13:28:22 --> buscando areas del cliente 
+2014-08-20 13:28:35 --> crear el consumidor 
+2014-08-20 13:28:35 --> se creo el consumidor 13980 
+2014-08-20 13:28:35 --> la informacion de la sede es array (
+  'S_ID' => '2',
+  'S_NOMBRE' => 'CENTRO',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional centro',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 13:28:35 --> se va a extraer informacion del area  
+2014-08-20 13:28:35 --> la informacion del area es array (
+  'AR_ID' => '8',
+  'AR_NOMBRE' => 'COMPENSACION_SALARIAL',
+  'AR_DESCRIPCION' => 'Informacion pago nomina y liquidaciones',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'CS',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 13:28:35 --> se va a crear el turno 
+2014-08-20 13:28:35 --> se creo el turno 2 del area CS 
+
+2014-08-20 13:36:24 --> get_areas 1 
+2014-08-20 13:36:24 --> buscando areas del cliente 
+
+2014-08-20 13:41:22 --> get_areas 1 
+2014-08-20 13:41:22 --> buscando areas del cliente 
+
+2014-08-20 13:59:43 --> get_areas 1 
+2014-08-20 13:59:43 --> buscando areas del cliente 
+2014-08-20 13:59:58 --> crear el consumidor 
+2014-08-20 13:59:58 --> se creo el consumidor 13981 
+2014-08-20 13:59:58 --> la informacion de la sede es array (
+  'S_ID' => '3',
+  'S_NOMBRE' => 'NORTE',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional norte',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 13:59:58 --> se va a extraer informacion del area  
+2014-08-20 13:59:58 --> la informacion del area es array (
+  'AR_ID' => '2',
+  'AR_NOMBRE' => 'APORTES',
+  'AR_DESCRIPCION' => 'Pensiones Incapacidades Cesantias Cartas FNA',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'A',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 13:59:58 --> se va a crear el turno 
+2014-08-20 13:59:58 --> se creo el turno 1 del area A 
+
+2014-08-20 14:00:37 --> get_areas 1 
+2014-08-20 14:00:37 --> buscando areas del cliente 
+2014-08-20 14:00:41 --> crear el consumidor 
+2014-08-20 14:00:41 --> se creo el consumidor 13982 
+2014-08-20 14:00:41 --> la informacion de la sede es array (
+  'S_ID' => '3',
+  'S_NOMBRE' => 'NORTE',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional norte',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 14:00:41 --> se va a extraer informacion del area  
+2014-08-20 14:00:41 --> la informacion del area es array (
+  'AR_ID' => '2',
+  'AR_NOMBRE' => 'APORTES',
+  'AR_DESCRIPCION' => 'Pensiones Incapacidades Cesantias Cartas FNA',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'A',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 14:00:41 --> se va a crear el turno 
+2014-08-20 14:00:41 --> se creo el turno 2 del area A 
+
+2014-08-20 14:01:17 --> get_areas 1 
+2014-08-20 14:01:17 --> buscando areas del cliente 
+2014-08-20 14:01:28 --> crear el consumidor 
+2014-08-20 14:01:28 --> se creo el consumidor 13983 
+2014-08-20 14:01:28 --> la informacion de la sede es array (
+  'S_ID' => '3',
+  'S_NOMBRE' => 'NORTE',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional norte',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 14:01:28 --> se va a extraer informacion del area  
+2014-08-20 14:01:28 --> la informacion del area es array (
+  'AR_ID' => '2',
+  'AR_NOMBRE' => 'APORTES',
+  'AR_DESCRIPCION' => 'Pensiones Incapacidades Cesantias Cartas FNA',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'A',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 14:01:28 --> se va a crear el turno 
+2014-08-20 14:01:28 --> se creo el turno 3 del area A 
+
+2014-08-20 14:01:31 --> get_areas 1 
+2014-08-20 14:01:31 --> buscando areas del cliente 
+2014-08-20 14:01:47 --> crear el consumidor 
+2014-08-20 14:01:47 --> se creo el consumidor 13984 
+2014-08-20 14:01:47 --> la informacion de la sede es array (
+  'S_ID' => '4',
+  'S_NOMBRE' => 'OCCIDENTE',
+  'S_DESCRIPCION' => 'Sedle para atender los casos de la regional occidente',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 14:01:47 --> se va a extraer informacion del area  
+2014-08-20 14:01:47 --> la informacion del area es array (
+  'AR_ID' => '2',
+  'AR_NOMBRE' => 'APORTES',
+  'AR_DESCRIPCION' => 'Pensiones Incapacidades Cesantias Cartas FNA',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'A',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 14:01:47 --> se va a crear el turno 
+2014-08-20 14:01:47 --> se creo el turno 5 del area A 
+
+2014-08-20 14:05:30 --> get_areas 1 
+2014-08-20 14:05:30 --> buscando areas del cliente 
+
+2014-08-20 14:06:41 --> get_areas 1 
+2014-08-20 14:06:41 --> buscando areas del cliente 
+2014-08-20 14:06:53 --> crear el consumidor 
+2014-08-20 14:06:59 --> se creo el consumidor 13985 
+2014-08-20 14:06:59 --> la informacion de la sede es array (
+  'S_ID' => '3',
+  'S_NOMBRE' => 'NORTE',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional norte',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 14:06:59 --> se va a extraer informacion del area  
+2014-08-20 14:06:59 --> la informacion del area es array (
+  'AR_ID' => '8',
+  'AR_NOMBRE' => 'COMPENSACION_SALARIAL',
+  'AR_DESCRIPCION' => 'Informacion pago nomina y liquidaciones',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'CS',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 14:06:59 --> se va a crear el turno 
+2014-08-20 14:06:59 --> se creo el turno 1 del area CS 
+
+2014-08-20 14:23:03 --> get_areas 1 
+2014-08-20 14:23:03 --> buscando areas del cliente 
+2014-08-20 14:23:18 --> crear el consumidor 
+2014-08-20 14:23:18 --> se creo el consumidor 13995 
+2014-08-20 14:23:18 --> la informacion de la sede es array (
+  'S_ID' => '4',
+  'S_NOMBRE' => 'OCCIDENTE',
+  'S_DESCRIPCION' => 'Sedle para atender los casos de la regional occidente',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 14:23:18 --> se va a extraer informacion del area  
+2014-08-20 14:23:18 --> la informacion del area es array (
+  'AR_ID' => '2',
+  'AR_NOMBRE' => 'APORTES',
+  'AR_DESCRIPCION' => 'Pensiones Incapacidades Cesantias Cartas FNA',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'A',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 14:23:18 --> se va a crear el turno 
+2014-08-20 14:23:18 --> se creo el turno 6 del area A 
+
+2014-08-20 14:30:04 --> get_areas 1 
+2014-08-20 14:30:04 --> buscando areas del cliente 
+2014-08-20 14:30:20 --> crear el consumidor 
+2014-08-20 14:30:20 --> se creo el consumidor 14003 
+2014-08-20 14:30:20 --> la informacion de la sede es array (
+  'S_ID' => '4',
+  'S_NOMBRE' => 'OCCIDENTE',
+  'S_DESCRIPCION' => 'Sedle para atender los casos de la regional occidente',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 14:30:20 --> se va a extraer informacion del area  
+2014-08-20 14:30:20 --> la informacion del area es array (
+  'AR_ID' => '2',
+  'AR_NOMBRE' => 'APORTES',
+  'AR_DESCRIPCION' => 'Pensiones Incapacidades Cesantias Cartas FNA',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'A',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 14:30:20 --> se va a crear el turno 
+2014-08-20 14:30:20 --> se creo el turno 7 del area A 
+
+2014-08-20 14:47:42 --> get_areas 1 
+2014-08-20 14:47:42 --> buscando areas del cliente 
+2014-08-20 14:47:55 --> crear el consumidor 
+2014-08-20 14:47:55 --> se creo el consumidor 14027 
+2014-08-20 14:47:55 --> la informacion de la sede es array (
+  'S_ID' => '4',
+  'S_NOMBRE' => 'OCCIDENTE',
+  'S_DESCRIPCION' => 'Sedle para atender los casos de la regional occidente',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 14:47:55 --> se va a extraer informacion del area  
+2014-08-20 14:47:55 --> la informacion del area es array (
+  'AR_ID' => '1',
+  'AR_NOMBRE' => 'GERENCIA_DEL_SERVICIO',
+  'AR_DESCRIPCION' => 'Cartas de ingreso al punto de venta',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'GS',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 14:47:55 --> se va a crear el turno 
+2014-08-20 14:47:55 --> se creo el turno 4 del area GS 
+
+2014-08-20 15:36:51 --> get_areas 1 
+2014-08-20 15:36:51 --> buscando areas del cliente 
+
+2014-08-20 15:37:25 --> get_areas 1 
+2014-08-20 15:37:25 --> buscando areas del cliente 
+2014-08-20 15:37:28 --> crear el consumidor 
+2014-08-20 15:37:30 --> se creo el consumidor 14035 
+2014-08-20 15:37:30 --> la informacion de la sede es array (
+  'S_ID' => '3',
+  'S_NOMBRE' => 'NORTE',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional norte',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 15:37:30 --> se va a extraer informacion del area  
+2014-08-20 15:37:30 --> la informacion del area es array (
+  'AR_ID' => '5',
+  'AR_NOMBRE' => 'OTROS',
+  'AR_DESCRIPCION' => 'Otros',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'O',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 15:37:30 --> se va a crear el turno 
+2014-08-20 15:37:30 --> se creo el turno 1 del area O 
+
+2014-08-20 15:38:16 --> get_areas 1 
+2014-08-20 15:38:16 --> buscando areas del cliente 
+
+2014-08-20 15:44:29 --> get_areas 1 
+2014-08-20 15:44:29 --> buscando areas del cliente 
+
+2014-08-20 16:05:15 --> get_areas 1 
+2014-08-20 16:05:15 --> buscando areas del cliente 
+2014-08-20 16:05:29 --> crear el consumidor 
+2014-08-20 16:05:29 --> se creo el consumidor 14041 
+2014-08-20 16:05:29 --> la informacion de la sede es array (
+  'S_ID' => '3',
+  'S_NOMBRE' => 'NORTE',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional norte',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 16:05:29 --> se va a extraer informacion del area  
+2014-08-20 16:05:29 --> la informacion del area es array (
+  'AR_ID' => '5',
+  'AR_NOMBRE' => 'OTROS',
+  'AR_DESCRIPCION' => 'Otros',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'O',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 16:05:29 --> se va a crear el turno 
+2014-08-20 16:05:29 --> se creo el turno 2 del area O 
+
+2014-08-20 16:22:44 --> get_areas 1 
+2014-08-20 16:22:44 --> buscando areas del cliente 
+2014-08-20 16:22:56 --> crear el consumidor 
+2014-08-20 16:23:09 --> se creo el consumidor 14044 
+2014-08-20 16:23:09 --> la informacion de la sede es array (
+  'S_ID' => '3',
+  'S_NOMBRE' => 'NORTE',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional norte',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 16:23:09 --> se va a extraer informacion del area  
+2014-08-20 16:23:09 --> la informacion del area es array (
+  'AR_ID' => '7',
+  'AR_NOMBRE' => 'VARIOS_REQUERIMIENTOS',
+  'AR_DESCRIPCION' => 'Solicitudes varias',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'VR',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 16:23:09 --> se va a crear el turno 
+2014-08-20 16:23:09 --> se creo el turno 1 del area VR 
+
+2014-08-20 16:47:53 --> get_areas 1 
+2014-08-20 16:47:53 --> buscando areas del cliente 
+2014-08-20 16:48:16 --> crear el consumidor 
+2014-08-20 16:48:26 --> se creo el consumidor 14048 
+2014-08-20 16:48:26 --> la informacion de la sede es array (
+  'S_ID' => '3',
+  'S_NOMBRE' => 'NORTE',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional norte',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 16:48:26 --> se va a extraer informacion del area  
+2014-08-20 16:48:26 --> la informacion del area es array (
+  'AR_ID' => '2',
+  'AR_NOMBRE' => 'APORTES',
+  'AR_DESCRIPCION' => 'Pensiones Incapacidades Cesantias Cartas FNA',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'A',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 16:48:26 --> se va a crear el turno 
+2014-08-20 16:48:26 --> se creo el turno 4 del area A 
+
+2014-08-20 17:38:51 --> get_areas 1 
+2014-08-20 17:38:51 --> buscando areas del cliente 
+2014-08-20 17:38:59 --> crear el consumidor 
+2014-08-20 17:38:59 --> se creo el consumidor 14063 
+2014-08-20 17:38:59 --> la informacion de la sede es array (
+  'S_ID' => '5',
+  'S_NOMBRE' => 'ORIENTE',
+  'S_DESCRIPCION' => 'Sede para gestionar los casos de la regional Oriente',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '7',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-08-20 17:38:59 --> se va a extraer informacion del area  
+2014-08-20 17:38:59 --> la informacion del area es array (
+  'AR_ID' => '1',
+  'AR_NOMBRE' => 'GERENCIA_DEL_SERVICIO',
+  'AR_DESCRIPCION' => 'Cartas de ingreso al punto de venta',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'GS',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-08-20 17:38:59 --> se va a crear el turno 
+2014-08-20 17:38:59 --> se creo el turno 11 del area GS 
+
+2014-08-20 17:51:35 --> get_areas 1 
+2014-08-20 17:51:35 --> buscando areas del cliente 

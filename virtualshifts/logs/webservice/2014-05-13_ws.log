@@ -1,0 +1,540 @@
+
+2014-05-13 10:28:00 --> get_areas 1 
+2014-05-13 10:28:00 --> buscando areas del cliente 
+2014-05-13 10:28:00 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '1',
+    'nombre_area' => 'GERENCIAMIENTO_DEL_SERVICIO',
+  ),
+  1 => 
+  array (
+    'id_area' => '2',
+    'nombre_area' => 'ADMINISTRACION_DE_LA_SEGURIDAD_SOCIAL_Y_PARAFISCALES',
+  ),
+  2 => 
+  array (
+    'id_area' => '3',
+    'nombre_area' => 'SEGUIMIENTO_AL_SERVICIO',
+  ),
+  3 => 
+  array (
+    'id_area' => '4',
+    'nombre_area' => 'SELECCION_Y_VINCULACION',
+  ),
+  4 => 
+  array (
+    'id_area' => '5',
+    'nombre_area' => 'OTROS',
+  ),
+  5 => 
+  array (
+    'id_area' => '7',
+    'nombre_area' => 'VARIOS_REQUERIMIENTOS',
+  ),
+  6 => 
+  array (
+    'id_area' => '8',
+    'nombre_area' => 'COMPENSACION_SALARIAL',
+  ),
+) 
+2014-05-13 10:28:00 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '1',
+      'nombre_area' => 'GERENCIAMIENTO_DEL_SERVICIO',
+    ),
+    1 => 
+    array (
+      'id_area' => '2',
+      'nombre_area' => 'ADMINISTRACION_DE_LA_SEGURIDAD_SOCIAL_Y_PARAFISCALES',
+    ),
+    2 => 
+    array (
+      'id_area' => '3',
+      'nombre_area' => 'SEGUIMIENTO_AL_SERVICIO',
+    ),
+    3 => 
+    array (
+      'id_area' => '4',
+      'nombre_area' => 'SELECCION_Y_VINCULACION',
+    ),
+    4 => 
+    array (
+      'id_area' => '5',
+      'nombre_area' => 'OTROS',
+    ),
+    5 => 
+    array (
+      'id_area' => '7',
+      'nombre_area' => 'VARIOS_REQUERIMIENTOS',
+    ),
+    6 => 
+    array (
+      'id_area' => '8',
+      'nombre_area' => 'COMPENSACION_SALARIAL',
+    ),
+  ),
+) 
+
+2014-05-13 11:56:34 --> get_areas 1 
+2014-05-13 11:56:34 --> buscando areas del cliente 
+2014-05-13 11:56:34 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '1',
+    'nombre_area' => 'GERENCIAMIENTO_DEL_SERVICIO',
+  ),
+  1 => 
+  array (
+    'id_area' => '2',
+    'nombre_area' => 'ADMINISTRACION_DE_LA_SEGURIDAD_SOCIAL_Y_PARAFISCALES',
+  ),
+  2 => 
+  array (
+    'id_area' => '3',
+    'nombre_area' => 'SEGUIMIENTO_AL_SERVICIO',
+  ),
+  3 => 
+  array (
+    'id_area' => '4',
+    'nombre_area' => 'SELECCION_Y_VINCULACION',
+  ),
+  4 => 
+  array (
+    'id_area' => '5',
+    'nombre_area' => 'OTROS',
+  ),
+  5 => 
+  array (
+    'id_area' => '7',
+    'nombre_area' => 'VARIOS_REQUERIMIENTOS',
+  ),
+  6 => 
+  array (
+    'id_area' => '8',
+    'nombre_area' => 'COMPENSACION_SALARIAL',
+  ),
+) 
+2014-05-13 11:56:34 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '1',
+      'nombre_area' => 'GERENCIAMIENTO_DEL_SERVICIO',
+    ),
+    1 => 
+    array (
+      'id_area' => '2',
+      'nombre_area' => 'ADMINISTRACION_DE_LA_SEGURIDAD_SOCIAL_Y_PARAFISCALES',
+    ),
+    2 => 
+    array (
+      'id_area' => '3',
+      'nombre_area' => 'SEGUIMIENTO_AL_SERVICIO',
+    ),
+    3 => 
+    array (
+      'id_area' => '4',
+      'nombre_area' => 'SELECCION_Y_VINCULACION',
+    ),
+    4 => 
+    array (
+      'id_area' => '5',
+      'nombre_area' => 'OTROS',
+    ),
+    5 => 
+    array (
+      'id_area' => '7',
+      'nombre_area' => 'VARIOS_REQUERIMIENTOS',
+    ),
+    6 => 
+    array (
+      'id_area' => '8',
+      'nombre_area' => 'COMPENSACION_SALARIAL',
+    ),
+  ),
+) 
+
+2014-05-13 11:58:10 --> get_areas 1 
+2014-05-13 11:58:10 --> buscando areas del cliente 
+2014-05-13 11:58:10 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '1',
+    'nombre_area' => 'GERENCIAMIENTO_DEL_SERVICIO',
+  ),
+  1 => 
+  array (
+    'id_area' => '2',
+    'nombre_area' => 'ADMINISTRACION_DE_LA_SEGURIDAD_SOCIAL_Y_PARAFISCALES',
+  ),
+  2 => 
+  array (
+    'id_area' => '3',
+    'nombre_area' => 'SEGUIMIENTO_AL_SERVICIO',
+  ),
+  3 => 
+  array (
+    'id_area' => '4',
+    'nombre_area' => 'SELECCION_Y_VINCULACION',
+  ),
+  4 => 
+  array (
+    'id_area' => '5',
+    'nombre_area' => 'OTROS',
+  ),
+  5 => 
+  array (
+    'id_area' => '7',
+    'nombre_area' => 'VARIOS_REQUERIMIENTOS',
+  ),
+  6 => 
+  array (
+    'id_area' => '8',
+    'nombre_area' => 'COMPENSACION_SALARIAL',
+  ),
+) 
+2014-05-13 11:58:10 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '1',
+      'nombre_area' => 'GERENCIAMIENTO_DEL_SERVICIO',
+    ),
+    1 => 
+    array (
+      'id_area' => '2',
+      'nombre_area' => 'ADMINISTRACION_DE_LA_SEGURIDAD_SOCIAL_Y_PARAFISCALES',
+    ),
+    2 => 
+    array (
+      'id_area' => '3',
+      'nombre_area' => 'SEGUIMIENTO_AL_SERVICIO',
+    ),
+    3 => 
+    array (
+      'id_area' => '4',
+      'nombre_area' => 'SELECCION_Y_VINCULACION',
+    ),
+    4 => 
+    array (
+      'id_area' => '5',
+      'nombre_area' => 'OTROS',
+    ),
+    5 => 
+    array (
+      'id_area' => '7',
+      'nombre_area' => 'VARIOS_REQUERIMIENTOS',
+    ),
+    6 => 
+    array (
+      'id_area' => '8',
+      'nombre_area' => 'COMPENSACION_SALARIAL',
+    ),
+  ),
+) 
+2014-05-13 11:59:09 --> crear el consumidor 
+2014-05-13 11:59:10 --> se creo el consumidor 662 
+2014-05-13 11:59:10 --> la informacion de la sede es array (
+  'S_ID' => '1',
+  'S_NOMBRE' => 'ANTIOQUIA',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional antioquia',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '3',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-05-13 11:59:10 --> se va a extraer informacion del area  
+2014-05-13 11:59:10 --> la informacion del area es array (
+  'AR_ID' => '5',
+  'AR_NOMBRE' => 'OTROS',
+  'AR_DESCRIPCION' => 'Area para requerimientos varios',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'Otro',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-05-13 11:59:10 --> se va a crear el turno 
+2014-05-13 11:59:10 --> se creo el turno 1 del area Otro 
+
+2014-05-13 12:01:05 --> get_areas 1 
+2014-05-13 12:01:05 --> buscando areas del cliente 
+2014-05-13 12:01:05 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '1',
+    'nombre_area' => 'GERENCIAMIENTO_DEL_SERVICIO',
+  ),
+  1 => 
+  array (
+    'id_area' => '2',
+    'nombre_area' => 'ADMINISTRACION_DE_LA_SEGURIDAD_SOCIAL_Y_PARAFISCALES',
+  ),
+  2 => 
+  array (
+    'id_area' => '3',
+    'nombre_area' => 'SEGUIMIENTO_AL_SERVICIO',
+  ),
+  3 => 
+  array (
+    'id_area' => '4',
+    'nombre_area' => 'SELECCION_Y_VINCULACION',
+  ),
+  4 => 
+  array (
+    'id_area' => '5',
+    'nombre_area' => 'OTROS',
+  ),
+  5 => 
+  array (
+    'id_area' => '7',
+    'nombre_area' => 'VARIOS_REQUERIMIENTOS',
+  ),
+  6 => 
+  array (
+    'id_area' => '8',
+    'nombre_area' => 'COMPENSACION_SALARIAL',
+  ),
+) 
+2014-05-13 12:01:05 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '1',
+      'nombre_area' => 'GERENCIAMIENTO_DEL_SERVICIO',
+    ),
+    1 => 
+    array (
+      'id_area' => '2',
+      'nombre_area' => 'ADMINISTRACION_DE_LA_SEGURIDAD_SOCIAL_Y_PARAFISCALES',
+    ),
+    2 => 
+    array (
+      'id_area' => '3',
+      'nombre_area' => 'SEGUIMIENTO_AL_SERVICIO',
+    ),
+    3 => 
+    array (
+      'id_area' => '4',
+      'nombre_area' => 'SELECCION_Y_VINCULACION',
+    ),
+    4 => 
+    array (
+      'id_area' => '5',
+      'nombre_area' => 'OTROS',
+    ),
+    5 => 
+    array (
+      'id_area' => '7',
+      'nombre_area' => 'VARIOS_REQUERIMIENTOS',
+    ),
+    6 => 
+    array (
+      'id_area' => '8',
+      'nombre_area' => 'COMPENSACION_SALARIAL',
+    ),
+  ),
+) 
+
+2014-05-13 13:03:30 --> get_areas 1 
+2014-05-13 13:03:30 --> buscando areas del cliente 
+2014-05-13 13:03:30 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '1',
+    'nombre_area' => 'GERENCIAMIENTO_DEL_SERVICIO',
+  ),
+  1 => 
+  array (
+    'id_area' => '2',
+    'nombre_area' => 'ADMINISTRACION_DE_LA_SEGURIDAD_SOCIAL_Y_PARAFISCALES',
+  ),
+  2 => 
+  array (
+    'id_area' => '3',
+    'nombre_area' => 'SEGUIMIENTO_AL_SERVICIO',
+  ),
+  3 => 
+  array (
+    'id_area' => '4',
+    'nombre_area' => 'SELECCION_Y_VINCULACION',
+  ),
+  4 => 
+  array (
+    'id_area' => '5',
+    'nombre_area' => 'OTROS',
+  ),
+  5 => 
+  array (
+    'id_area' => '7',
+    'nombre_area' => 'VARIOS_REQUERIMIENTOS',
+  ),
+  6 => 
+  array (
+    'id_area' => '8',
+    'nombre_area' => 'COMPENSACION_SALARIAL',
+  ),
+) 
+2014-05-13 13:03:30 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '1',
+      'nombre_area' => 'GERENCIAMIENTO_DEL_SERVICIO',
+    ),
+    1 => 
+    array (
+      'id_area' => '2',
+      'nombre_area' => 'ADMINISTRACION_DE_LA_SEGURIDAD_SOCIAL_Y_PARAFISCALES',
+    ),
+    2 => 
+    array (
+      'id_area' => '3',
+      'nombre_area' => 'SEGUIMIENTO_AL_SERVICIO',
+    ),
+    3 => 
+    array (
+      'id_area' => '4',
+      'nombre_area' => 'SELECCION_Y_VINCULACION',
+    ),
+    4 => 
+    array (
+      'id_area' => '5',
+      'nombre_area' => 'OTROS',
+    ),
+    5 => 
+    array (
+      'id_area' => '7',
+      'nombre_area' => 'VARIOS_REQUERIMIENTOS',
+    ),
+    6 => 
+    array (
+      'id_area' => '8',
+      'nombre_area' => 'COMPENSACION_SALARIAL',
+    ),
+  ),
+) 
+2014-05-13 13:03:43 --> crear el consumidor 
+2014-05-13 13:03:43 --> se creo el consumidor 664 
+2014-05-13 13:03:43 --> la informacion de la sede es array (
+  'S_ID' => '1',
+  'S_NOMBRE' => 'ANTIOQUIA',
+  'S_DESCRIPCION' => 'Sede para atender los casos de la regional antioquia',
+  'S_C_ID' => '1',
+  'S_CANTIDAD_ENCUESTAS' => '10',
+  'S_ACTIVO' => '1',
+  'S_LOGO' => '3',
+  'S_MUESTRA_VIDEO' => '1',
+) 
+2014-05-13 13:03:43 --> se va a extraer informacion del area  
+2014-05-13 13:03:43 --> la informacion del area es array (
+  'AR_ID' => '5',
+  'AR_NOMBRE' => 'OTROS',
+  'AR_DESCRIPCION' => 'Area para requerimientos varios',
+  'AR_C_ID' => '1',
+  'AR_ACTIVO' => '1',
+  'AR_ALIAS' => 'Otro',
+  'AR_MOSTRAR_NOMBRE_PANTALLA' => '0',
+) 
+2014-05-13 13:03:43 --> se va a crear el turno 
+2014-05-13 13:03:43 --> se creo el turno 2 del area Otro 
+
+2014-05-13 15:47:16 --> get_areas 1 
+2014-05-13 15:47:16 --> buscando areas del cliente 
+2014-05-13 15:47:16 --> encontro estas areas array (
+  0 => 
+  array (
+    'id_area' => '1',
+    'nombre_area' => 'GERENCIAMIENTO_DEL_SERVICIO',
+  ),
+  1 => 
+  array (
+    'id_area' => '2',
+    'nombre_area' => 'ADMINISTRACION_DE_LA_SEGURIDAD_SOCIAL_Y_PARAFISCALES',
+  ),
+  2 => 
+  array (
+    'id_area' => '3',
+    'nombre_area' => 'SEGUIMIENTO_AL_SERVICIO',
+  ),
+  3 => 
+  array (
+    'id_area' => '4',
+    'nombre_area' => 'SELECCION_Y_VINCULACION',
+  ),
+  4 => 
+  array (
+    'id_area' => '5',
+    'nombre_area' => 'OTROS',
+  ),
+  5 => 
+  array (
+    'id_area' => '7',
+    'nombre_area' => 'VARIOS_REQUERIMIENTOS',
+  ),
+  6 => 
+  array (
+    'id_area' => '8',
+    'nombre_area' => 'COMPENSACION_SALARIAL',
+  ),
+) 
+2014-05-13 15:47:16 --> salida array (
+  'status' => 'success',
+  'error_descrip' => '',
+  'datos' => 
+  array (
+    0 => 
+    array (
+      'id_area' => '1',
+      'nombre_area' => 'GERENCIAMIENTO_DEL_SERVICIO',
+    ),
+    1 => 
+    array (
+      'id_area' => '2',
+      'nombre_area' => 'ADMINISTRACION_DE_LA_SEGURIDAD_SOCIAL_Y_PARAFISCALES',
+    ),
+    2 => 
+    array (
+      'id_area' => '3',
+      'nombre_area' => 'SEGUIMIENTO_AL_SERVICIO',
+    ),
+    3 => 
+    array (
+      'id_area' => '4',
+      'nombre_area' => 'SELECCION_Y_VINCULACION',
+    ),
+    4 => 
+    array (
+      'id_area' => '5',
+      'nombre_area' => 'OTROS',
+    ),
+    5 => 
+    array (
+      'id_area' => '7',
+      'nombre_area' => 'VARIOS_REQUERIMIENTOS',
+    ),
+    6 => 
+    array (
+      'id_area' => '8',
+      'nombre_area' => 'COMPENSACION_SALARIAL',
+    ),
+  ),
+) 
